@@ -97,9 +97,9 @@ class Layouts:
                 sg.Text('', size=edge_spaces),
                 sg.Button(left_symbol, size=button_size, key=position_name + '_x-', enable_events=True),
                 sg.InputText(default_text=x.get_value(), size=half_button_size, enable_events=False, key=position_name + '_x',
-                             tooltip="Horizontal " + position_name + " Measurement (mm)"),
+                             tooltip="Horizontal " + position_name + " Measurement (mm)", disabled=True),
                 sg.InputText(default_text=y.get_value(), size=half_button_size, enable_events=False, key=position_name + '_y',
-                             tooltip="Vertical " + position_name + " Measurement (mm)"),
+                             tooltip="Vertical " + position_name + " Measurement (mm)", disabled=True),
                 sg.Button(right_symbol, size=button_size, key=position_name + '_x+', enable_events=True),
                 sg.Text('', size=edge_spaces)],
             [

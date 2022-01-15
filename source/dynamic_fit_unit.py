@@ -12,9 +12,9 @@ class Position:
 
 class DynamicFitUnit:
 
-    def __init__(self):
-        self.saddle = Position("Saddle", [0, 0])
-        self.handlebars = Position("Handlebars", [0, 0])
+    def __init__(self, saddle_default, handlebars_default):
+        self.saddle = Position("Saddle", saddle_default)
+        self.handlebars = Position("Handlebars", handlebars_default)
 
     def get_fields(self):
         return [self.saddle.x, self.saddle.y, self.handlebars.x, self.handlebars.y]

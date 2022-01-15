@@ -11,7 +11,12 @@ class Controller:
     def __init__(self):
         sg.theme('DarkBlue12')
         self.layouts = Layouts()
-        self.dfu = DynamicFitUnit()
+
+        # Default positions
+        handlebars_default = [0, 0]
+        saddle_default = [0, 0]
+        self.dfu = DynamicFitUnit(saddle_default, handlebars_default)
+
         self.hardware = Hardware()
         self.event_handler = EventMapping(self.dfu.get_fields())
 
