@@ -15,6 +15,7 @@ class DynamicFitUnit:
     def __init__(self, saddle_default, handlebars_default):
         self.saddle = Position("Saddle", saddle_default)
         self.handlebars = Position("Handlebars", handlebars_default)
+        self.step_size = 10
 
     def get_fields(self):
         return [self.saddle.x, self.saddle.y, self.handlebars.x, self.handlebars.y]

@@ -37,23 +37,32 @@ class Field:
     def get_value(self):
         return self.value
 
-    def increment_value(self, amount=0.5):
+    def increment_value(self, amount=1):
         new_val = self.get_value() + amount
-        if self.get_upper_bound() is None or new_val <= self.get_upper_bound():
+        if self.get_upper_bound() is not None:
+            if new_val > self.get_upper_bound():
+                new_val = self.get_upper_bound()
+        actual_amount = new_val - self.get_value()
+        if actual_amount > 0:
             self.set_value(new_val)
-            self.hardware.increment_position(self.field_name)
+            self.hardware.increment_position(self.field_name, millmeters=actual_amount)
 
-    def decrement_value(self, amount=0.5):
+    def decrement_value(self, amount=1):
         new_val = self.get_value() - amount
-        if self.get_lower_bound() is None or new_val >= self.get_lower_bound():
+        if self.get_lower_bound() is not None:
+            if new_val < self.get_lower_bound():
+                new_val = self.get_lower_bound()
+        actual_amount = self.get_value() - new_val
+        if actual_amount > 0:
             self.set_value(new_val)
-            self.hardware.decrement_position(self.field_name)
+            self.hardware.decrement_position(self.field_name, millimeters=actual_amount)
 
 
 class EventMapping:
 
-    def __init__(self, fields):
-        self.fields = fields
+    def __init__(self, dfu):
+        self.dfu = dfu
+        self.fields = dfu.get_fields()
 
     def handle_event(self, event_name):
         field_name = event_name[:-1]
@@ -68,14 +77,14 @@ class EventMapping:
     def decrement_field(self, field_name):
         for f in self.fields:
             if f.field_name == field_name:
-                f.decrement_value()
+                f.decrement_value(amount=self.dfu.step_size)
                 return True
         return False
 
     def increment_field(self, field_name):
         for f in self.fields:
             if f.field_name == field_name:
-                f.increment_value()
+                f.increment_value(amount=self.dfu.step_size)
                 return True
         return False
 

@@ -18,7 +18,7 @@ class Controller:
         self.dfu = DynamicFitUnit(saddle_default, handlebars_default)
 
         self.hardware = Hardware()
-        self.event_handler = EventMapping(self.dfu.get_fields())
+        self.event_handler = EventMapping(self.dfu)
 
         self.title = "Cyclist Fitting Session"
         self.window = None
@@ -55,6 +55,8 @@ class Controller:
                 break
             if event in ["Import Fit", "Export Fit"]:
                 self.file_handler(event)
+            if event == "step size":
+                self.set_step_size(values[event])
             else:
                 self.event_handler.handle_event(event)
 
@@ -142,4 +144,7 @@ class Controller:
         if new_file is None or len(new_file) < 1:
             return None
         return new_file
+
+    def set_step_size(self, size):
+        self.dfu.step_size = size
 
