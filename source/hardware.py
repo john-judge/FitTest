@@ -5,8 +5,8 @@ class Hardware:
 
     def __init__(self):
         self.serial_connection = serial.Serial()
-        self.serial_connection.baudrate = 19200
-        self.serial_connection.port = "COM1"
+        self.serial_connection.baudrate = 9600
+        self.serial_connection.port = "COM5"
         self.is_comm_enabled = True
         if self.is_comm_enabled:
             self.serial_connection.open()
