@@ -1,22 +1,62 @@
 import serial
+import time
 
 
 class Hardware:
 
     def __init__(self):
-        self.serial_connection = serial.Serial()
-        self.serial_connection.baudrate = 9600
-        self.serial_connection.port = "COM5"
         self.is_comm_enabled = True
+        self.serial_connection = self.motor_init()
         if self.is_comm_enabled:
-            self.serial_connection.open()
+            try:
+                self.serial_connection.open()
+                time.sleep(1)
+                print(self.serial_connection)
+            except serial.serialutil.SerialException:
+                print("Failed to open serial port")
+
+            if self.serial_connection.isOpen():
+                try:
+                    self.serial_connection.flushInput()
+                    self.serial_connection.flushOutput()
+                    self.motor_setup()  # Complete motor setup and enable motor
+
+                except Exception as e1:
+                    print("Error Communicating...: " + str(e1))
+            else:
+                print("Cannot open serial port ")
 
     def __del__(self):
         if self.is_comm_enabled:
             self.serial_connection.close()
 
-    def read_from_port(self):
-        print(self.serial_connection.readline())
+    @staticmethod
+    def motor_init():
+        ser = serial.Serial()
+        ser.port = "COM5"
+        ser.baudrate = 9600
+        ser.bytesize = serial.EIGHTBITS
+        ser.parity = serial.PARITY_NONE
+        ser.stopbits = serial.STOPBITS_ONE
+        ser.timeout = .1
+        ser.xonxoff = False
+        ser.rtscts = False
+        ser.dsrdtr = False
+        ser.writeTimeout = 0
+        return ser
+
+    def motor_setup(self):
+        """
+        Setup initial motor parameters, also resets alarm
+        """
+        self.write_serial_command('EG20000') # Sets microstepping to 20,000 steps per revolution
+        self.write_serial_command('IFD') # Sets the format of drive responses to decimal
+        self.write_serial_command('SP0') # Sets the starting position at 0
+        self.write_serial_command('AR') # Alarm reset
+        self.write_serial_command('AC10') # Acceleration
+        self.write_serial_command('DE15') # Deceleration
+        self.write_serial_command('VE10') # Velocity
+        self.write_serial_command('ME')  # Enable Motor
 
     # Serial commands
     #
@@ -50,7 +90,7 @@ class Hardware:
     def get_serial_suffix(position, millimeters=1):
         if "Saddle" in position and "x" in position:
             millimeters *= -1  # see notes, this position is flipped
-        return str(millimeters * 10000)
+        return str(int(millimeters * 10000))
 
     def increment_position(self, position, millmeters=1):
         serial_command = self.get_serial_prefix(position)
@@ -67,6 +107,12 @@ class Hardware:
         self.write_serial_command(serial_command)
 
     def write_serial_command(self, command):
-        print("Writing: ", command, " to serial connection:", self.serial_connection)
+        print("Writing: ", command,
+              " to serial connection:", self.serial_connection)
         if self.is_comm_enabled:
-            self.serial_connection.write(command)
+            # When we send a serial command, the program will check and print
+            # the response given by the drive.
+            self.serial_connection.write((command + '\r').encode())
+            response = self.serial_connection.read(15).decode()
+            if len(response) > 0:
+                print(response)
