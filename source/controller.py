@@ -13,11 +13,22 @@ class Controller:
         self.layouts = Layouts()
 
         # Default positions
-        handlebars_default = [0, 0]
-        saddle_default = [0, 0]
-        self.dfu = DynamicFitUnit(saddle_default, handlebars_default)
+        self.handlebars_default = [0, 0]
+        self.saddle_default = [0, 0]
+        self.saddle_bounds = [[-250, 250], [-250, 250]]
+        self.handlebars_bounds = [[-250, 250], [-250, 250]]
+        self.step_size = 10
+        self.dfu = DynamicFitUnit(self.saddle_default,
+                                  self.handlebars_default,
+                                  self.saddle_bounds,
+                                  self.handlebars_bounds,
+                                  self.step_size)
 
         self.hardware = Hardware()
+        if not self.hardware.is_hardware_connected():
+            self.notify_window("Hardware not connected",
+                               "The serial port for the Dynamic Fitting Unit, COM5,"
+                               " could not be opened.")
         self.event_handler = EventMapping(self.dfu)
 
         self.title = "Cyclist Fitting Session"
@@ -57,6 +68,9 @@ class Controller:
                 self.file_handler(event)
             if event == "step size":
                 self.set_step_size(values[event])
+            if event == "reset":
+                self.event_handler.saturate_lower_limits(["Saddle_x", "Saddle_y", "Handlebars_x", "Handlebars_y"],
+                                                         self.saddle_bounds + self.handlebars_bounds)
             else:
                 self.event_handler.handle_event(event)
 

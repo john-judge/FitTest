@@ -89,6 +89,7 @@ class Layouts:
         ]
 
     def create_main_layout(self, dfu):
+        button_size = (6, 1)
         return [
             [sg.Column(self.create_arrowed_field(dfu.handlebars.name,
                                                  dfu.handlebars.x,
@@ -97,14 +98,18 @@ class Layouts:
              sg.Column(self.create_arrowed_field(dfu.saddle.name,
                                                  dfu.saddle.x,
                                                  dfu.saddle.y))],
-            [sg.Slider(range=(1, 10.0),
+            [sg.Slider(range=(1, 10),
                        default_value=dfu.step_size,
-                       resolution=1.0,
+                       resolution=1,
                        enable_events=True,
                        size=(20, 40),
                        orientation='horizontal',
                        tooltip="Adjusts the step size from 1-10 mm",
                        key="step size")],
+            [sg.Button("Reset",
+                       key="reset",
+                       size=button_size,
+                       enable_events=True)],
             [sg.Image(key="BIKE IMAGE")],
             [sg.HorizontalSeparator()],
         ]

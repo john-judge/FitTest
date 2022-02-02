@@ -21,7 +21,7 @@ class Field:
         # Numeric validation
         self.bounds = bounds
         if self.bounds is None:
-            self.bounds = [0, 5000]
+            self.bounds = [-2500, 2500]
 
     def get_upper_bound(self):
         return self.bounds[1]
@@ -38,7 +38,7 @@ class Field:
         return self.value
 
     def increment_value(self, amount=1):
-        new_val = self.get_value() + amount
+        new_val = int(self.get_value() + amount)
         if self.get_upper_bound() is not None:
             if new_val > self.get_upper_bound():
                 new_val = self.get_upper_bound()
@@ -48,7 +48,7 @@ class Field:
             self.hardware.increment_position(self.field_name, millmeters=actual_amount)
 
     def decrement_value(self, amount=1):
-        new_val = self.get_value() - amount
+        new_val = int(self.get_value() - amount)
         if self.get_lower_bound() is not None:
             if new_val < self.get_lower_bound():
                 new_val = self.get_lower_bound()
@@ -74,17 +74,26 @@ class EventMapping:
         if not found:
             print("Event not found:", event_name)
 
-    def decrement_field(self, field_name):
+    def saturate_lower_limits(self, field_names, bounds):
+        for i in range(len(field_names)):
+            range_length = bounds[i][1] - bounds[i][0]
+            self.decrement_field(field_names[i], range_length)
+
+    def decrement_field(self, field_name, amount=None):
+        if amount is None:
+            amount = self.dfu.step_size
         for f in self.fields:
             if f.field_name == field_name:
-                f.decrement_value(amount=self.dfu.step_size)
+                f.decrement_value(amount=amount)
                 return True
         return False
 
-    def increment_field(self, field_name):
+    def increment_field(self, field_name, amount=None):
+        if amount is None:
+            amount = self.dfu.step_size
         for f in self.fields:
             if f.field_name == field_name:
-                f.increment_value(amount=self.dfu.step_size)
+                f.increment_value(amount=amount)
                 return True
         return False
 

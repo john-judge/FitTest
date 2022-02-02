@@ -30,6 +30,9 @@ class Hardware:
         if self.is_comm_enabled:
             self.serial_connection.close()
 
+    def is_hardware_connected(self):
+        return self.serial_connection.isOpen()
+
     @staticmethod
     def motor_init():
         ser = serial.Serial()
@@ -109,7 +112,7 @@ class Hardware:
     def write_serial_command(self, command):
         print("Writing: ", command,
               " to serial connection:", self.serial_connection)
-        if self.is_comm_enabled:
+        if self.is_comm_enabled and self.serial_connection.isOpen():
             # When we send a serial command, the program will check and print
             # the response given by the drive.
             self.serial_connection.write((command + '\r').encode())
