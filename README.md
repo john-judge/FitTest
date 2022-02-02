@@ -1,7 +1,7 @@
 # FitTest
 GUI for controlling bicycle fitting adjustment machine over COM serial ports
 
-![image](https://user-images.githubusercontent.com/40705003/147897495-0755ea0b-49ce-4a6f-b6d3-3bb5e7d7b9c1.png)
+![image](https://user-images.githubusercontent.com/40705003/152251496-2f409a41-8eb7-4f5b-a06b-87832392b7fd.png)
 
 # Easy Update Process
 If everything is set up and running smoothly, open an Anaconda prompt and run
