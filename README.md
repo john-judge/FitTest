@@ -4,7 +4,11 @@ GUI for controlling bicycle fitting adjustment machine over COM serial ports
 ![image](https://user-images.githubusercontent.com/40705003/147897495-0755ea0b-49ce-4a6f-b6d3-3bb5e7d7b9c1.png)
 
 # Easy Update Process
-If everything is set up and running smoothly, run the shortcut to the FitUpdater executable. This will pull new updates from Github and then rebuild the DynamicFitter executable.
+If everything is set up and running smoothly, open an Anaconda prompt and run
+```
+python update.py
+```
+This will pull updates from Github and rebuild the DynamicFitter executable.
 
 # Building from Source (for complete beginners)
 
@@ -30,13 +34,6 @@ Create a Conda environment (which will install several packages) and activate it
 ```
 conda env create -f environment.yml --name FitTest
 conda activate FitTest
-```
-
-## Building the FitUpdater executable
-
-After the above (with the Conda environment activated, from the Anaconda prompt), run:
-```
-pyinstaller -n FitUpdater update.py  
 ```
 
 ## Building the DynamicFitter Executable
