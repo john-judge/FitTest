@@ -79,6 +79,15 @@ class EventMapping:
             range_length = bounds[i][1] - bounds[i][0]
             self.decrement_field(field_names[i], range_length)
 
+    def snap_to_measurement(self, field_names, curr_positions, new_positions):
+        for i in range(len(field_names)):
+            move_amount = new_positions[i] - curr_positions[i]
+            print("Snap", field_names[i], "by", move_amount)
+            if move_amount > 0:
+                self.increment_field(field_names[i], move_amount)
+            elif move_amount < 0:
+                self.decrement_field(field_names[i], -1 * move_amount)
+
     def decrement_field(self, field_name, amount=None):
         if amount is None:
             amount = self.dfu.step_size
@@ -105,6 +114,15 @@ class EventMapping:
         json = self.retrieve_python_object_from_json(filename)
         if json is not None:
             self.import_fields_json(json)
+
+    # fetch current field values and return in same order as list arg
+    def get_curr_field_values(self, field_names):
+        vals = []
+        for f_name in field_names:
+            for f in self.fields:
+                if f.field_name == f_name:
+                    vals.append(f.get_value())
+        return vals
 
     def import_fields_json(self, field_json):
         for f in self.fields:

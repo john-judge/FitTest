@@ -58,6 +58,7 @@ class Controller:
         if window is None:
             window = self.window
         events = ''
+        field_names = ["Saddle_x", "Saddle_y", "Handlebars_x", "Handlebars_y"]
         while True:
             event, values = window.read()
             if debug and event is not None:
@@ -66,10 +67,10 @@ class Controller:
                 break
             if event in ["Import Fit", "Export Fit"]:
                 self.file_handler(event)
-            if event == "step size":
+            elif event == "step size":
                 self.set_step_size(values[event])
-            if event == "reset":
-                self.event_handler.saturate_lower_limits(["Saddle_x", "Saddle_y", "Handlebars_x", "Handlebars_y"],
+            elif event == "reset":
+                self.event_handler.saturate_lower_limits(field_names,
                                                          self.saddle_bounds + self.handlebars_bounds)
             else:
                 self.event_handler.handle_event(event)
@@ -83,7 +84,13 @@ class Controller:
         if event == "Import Fit":
             file = self.browse_for_file()
             if file is not None:
+                field_names = ["Saddle_x", "Saddle_y", "Handlebars_x", "Handlebars_y"]
+                curr_field_measurements = self.event_handler.get_curr_field_values(field_names)
                 self.event_handler.import_file(file)
+                new_field_measurements = self.event_handler.get_curr_field_values(field_names)
+                self.event_handler.snap_to_measurement(field_names,
+                                                       curr_field_measurements,
+                                                       new_field_measurements)
         elif event == 'Export Fit':
             file = self.browse_for_save_as_file()
             if file is not None:
