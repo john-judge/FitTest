@@ -5,7 +5,6 @@ import pandas as pd
 from bs4 import BeautifulSoup
 from datetime import date
 
-'''
 os.system('cmd /c "color a"')
 os.system('cmd /c "cd Desktop"')
 os.system('cmd /c "cd FitTest"')
@@ -13,12 +12,10 @@ os.system('cmd /c "git pull"')
 os.system('cmd /c "conda activate FitTest"')  # needed because Pyinstaller doesn't like to include itself as dependency
 os.system('cmd /c "pyinstaller -n DynamicFitter --add-data source/images/*.png;./source/images/ driver.py --noconfirm"')
 time.sleep(3)
-'''
-
 
 print("\n\n\n ****** \n\n\nNow updating offline bike database from SlowTwitch.")
 
-print("Old version of the database has been archived.")
+print("Versions of the database previous to today will remain archived.")
 
 response = requests.get(
     'https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vRu5yNNvCe_v7A_bTWDZvVq-w9VfqmRKIyV8yXBWRrjXEC19hIqOKsZJjgCv_lm-LlUfN7-37WR58wJ/pubhtml/sheet?headers=false&gid=0&output=csv')
@@ -58,4 +55,6 @@ dataFrame = pd.DataFrame(data=data, columns=list_header)
 
 # Converting Pandas DataFrame
 # into CSV file
-dataFrame.to_csv('slowtwitch_database/DB'+ str(date.today().strftime("%d%m%Y")) + '.csv')
+new_file = 'slowtwitch_database/DB'+ str(date.today().strftime("%d%m%Y")) + '.csv'
+dataFrame.to_csv(new_file)
+print("Wrote new database to", new_file)
