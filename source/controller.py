@@ -4,6 +4,7 @@ from source.layouts import Layouts
 from source.field import EventMapping
 from source.dynamic_fit_unit import DynamicFitUnit
 from source.hardware import Hardware
+from source.slowtwitch import SlowtwitchDatabase
 
 
 class Controller:
@@ -11,6 +12,14 @@ class Controller:
     def __init__(self):
         sg.theme('DarkBlue12')
         self.layouts = Layouts()
+
+        # Load slowtwitch.com data
+        self.slowtwitch_db = SlowtwitchDatabase()
+        if not self.slowtwitch_db.is_database_found():
+            self.notify_window("Slowtwitch database not found",
+                               "Please run 'python update.py' from Anaconda prompt to"
+                               " pull the most recent version of the Slowtwitch.com "
+                               "bike catalog.")
 
         # Default positions
         self.handlebars_default = [0, 0]
@@ -72,6 +81,11 @@ class Controller:
             elif event == "reset":
                 self.event_handler.saturate_lower_limits(field_names,
                                                          self.saddle_bounds + self.handlebars_bounds)
+            elif event == "find bikes":
+                stack = self.dfu.get_stack()
+                reach = self.dfu.get_reach()
+                matches = self.slowtwitch_db.get_stack_reach_matches()
+                print(matches)
             else:
                 self.event_handler.handle_event(event)
 

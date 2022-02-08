@@ -22,7 +22,6 @@ response = requests.get(
 print(response.status_code, type(response.content))
 
 
-path = 'html.html'
 data = []
 
 # for getting the header from

@@ -90,6 +90,7 @@ class Layouts:
 
     def create_main_layout(self, dfu):
         button_size = (6, 1)
+        long_button_size = (10, 1)
         return [
             [sg.Column(self.create_arrowed_field(dfu.handlebars.name,
                                                  dfu.handlebars.x,
@@ -109,7 +110,12 @@ class Layouts:
             [sg.Button("Reset",
                        key="reset",
                        size=button_size,
-                       enable_events=True)],
+                       enable_events=True),
+             sg.Button("Find Bikes",
+                       key="find bikes",
+                       size=long_button_size,
+                       enable_events=True)
+             ],
             [sg.Image(key="BIKE IMAGE")],
             [sg.HorizontalSeparator()],
         ]

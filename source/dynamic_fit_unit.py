@@ -19,3 +19,12 @@ class DynamicFitUnit:
 
     def get_fields(self):
         return [self.saddle.x, self.saddle.y, self.handlebars.x, self.handlebars.y]
+
+    # calculate stack
+    def get_stack(self):
+        # fn = self.saddle.x + self.saddle.y + ... pedal location
+        raise NotImplementedError
+
+    # calculate reach
+    def get_reach(self):
+        raise NotImplementedError

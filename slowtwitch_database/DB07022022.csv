@@ -1,0 +1,1235 @@
+,,,,,,,,,,,
+0,1,Brand,Model,Tri/Road,Size,Stack,Reach,Trail,Front Center,Head Tube,Wheelsize
+1,,,,,,,,,,,
+2,2,Argon 18,Old Gallium,Tri,XS,492,385,0,0,0,700c
+3,3,Argon 18,E-117,Tri,S,500,395,0,0,0,700c
+4,4,Argon 18,E-117,Tri,M,515,405,0,0,0,700c
+5,5,Argon 18,E-117,Tri,L,542,410,0,0,0,700c
+6,6,Argon 18,E-119,Tri,XS,560,415,0,0,0,700c
+7,7,Argon 18,E-119,Tri,M,585,435,0,0,0,700c
+8,8,Argon 18,E-119,Tri,L,610,440,0,0,0,700c
+9,9,Argon 18,E-117,Tri,XS,490,385,0,0,0,700c
+10,10,Argon 18,E-117,Tri,XL,568,422,0,0,0,700c
+11,11,Argon 18,E-119,Tri,S,570,425,0,0,0,700c
+12,12,Argon 18,E-119,Tri,XL,635,450,0,0,0,700c
+13,13,Argon 18,2019 Krypton,Tri,XL,624,407,0,0,196,700c
+14,14,Argon 18,E-118 Next,Tri,XS,548,446,0,0,57,700c
+15,15,Argon 18,E-118 Next,Tri,S,557,458,0,0,67,700c
+16,16,Argon 18,E-118 Next,Tri,M,575,466,0,0,86,700c
+17,17,Argon 18,E-118 Next,Tri,L,598,473,0,0,110,700c
+18,18,Argon 18,Old Gallium,Road,s,519,389,60,0,109,700c
+19,19,Argon 18,Old Gallium,Road,m,547,394,60,0,139,700c
+20,20,Argon 18,Old Gallium,Road,l,569,401,60,0,162,700c
+21,21,Argon 18,Old Gallium,Road,xl,594,408,58,0,189,700c
+22,22,Argon 18,Old Krypton,Road,xxs,489,373,71,0,90,700c
+23,23,Argon 18,Old Krypton,Road,xs,501,380,64,0,100,700c
+24,24,Argon 18,Old Krypton,Road,s,526,387,60,0,123,700c
+25,25,Argon 18,Old Krypton,Road,m,548,393,60,0,147,700c
+26,26,Argon 18,Old Krypton,Road,l,573,400,60,0,173,700c
+27,27,Argon 18,Old Krypton,Road,xl,595,408,58,0,195,700c
+28,28,Argon 18,Radon,Road,xxs,496,370,71,0,98,700c
+29,29,Argon 18,Radon,Road,xs,508,379,64,0,108,700c
+30,30,Argon 18,Radon,Road,s,530,387,60,0,128,700c
+31,31,Argon 18,Radon,Road,m,556,390,60,0,156,700c
+32,32,Argon 18,Radon,Road,l,581,397,60,0,182,700c
+33,33,Argon 18,Radon,Road,xl,609,403,58,0,210,700c
+34,34,Argon 18,2019 Gallium,Road,XXS,474,374,0,0,75,700c
+35,35,Argon 18,2019 Gallium,Road,XS,492,382,0,0,85,700c
+36,36,Argon 18,2019 Gallium,Road,S,523,389,0,0,110,700c
+37,37,Argon 18,2019 Gallium,Road,M,552,395,0,0,140,700c
+38,38,Argon 18,2019 Gallium,Road,L,575,401,0,0,165,700c
+39,39,Argon 18,2019 Gallium,Road,XL,596,408,0,0,185,700c
+40,40,Argon 18,Nitrogen,Road,XS,469,383,0,0,81,700c
+41,41,Argon 18,Nitrogen,Road,S,516,390,0,0,109,700c
+42,42,Argon 18,Nitrogen,Road,M,546,394,0,0,141,700c
+43,43,Argon 18,Nitrogen,Road,L,566,402,0,0,162,700c
+44,44,Argon 18,Nitrogen,Road,XL,592,409,0,0,188,700c
+45,45,Argon 18,2019 Krypton,Road,XXS,519,359,0,0,91,700c
+46,46,Argon 18,2019 Krypton,Road,XS,539,369,0,0,108,700c
+47,47,Argon 18,2019 Krypton,Road,S,559,379,0,0,127,700c
+48,48,Argon 18,2019 Krypton,Road,M,580,388,0,0,149,700c
+49,49,Argon 18,2019 Krypton,Road,L,601,397,0,0,174,700c
+50,50,BH Bikes,Ultralight,Road,xxs,515,370,0,0,108,700c
+51,51,BH Bikes,Ultralight,Road,s,523,383,0,0,120,700c
+52,52,BH Bikes,Ultralight,Road,m,549,384,0,0,150,700c
+53,53,BH Bikes,Ultralight,Road,l,583,386,0,0,185,700c
+54,54,BH Bikes,Ultralight,Road,xl,594,396,0,0,196,700c
+55,55,BH Bikes,Ultralight,Road,XS,517,382,0,0,115,700c
+56,56,BH Bikes,G7,Road,SM,523,383,0,0,120,700c
+57,57,BH Bikes,G7,Road,M,549,384,0,0,150,700c
+58,58,BH Bikes,G7,Road,L,583,386,0,0,185,700c
+59,59,BH Bikes,G7,Road,XL,594,386,0,0,196,700c
+60,60,BH Bikes,Quartz Evo Disc,Road,SM,540,365,0,0,140,700c
+61,61,BH Bikes,Quartz Evo Disc,Road,M,556,375,0,0,155,700c
+62,62,BH Bikes,Quartz Evo Disc,Road,L,581,379,0,0,180,700c
+63,63,BH Bikes,Quartz Evo Disc,Road,XL,596,388,0,0,195,700c
+64,64,BH Bikes,Quartz Evo Disc,Road,XXL,620,393,0,0,220,700c
+65,65,BH Bikes,Aerolight,Tri,SM,494,409,0,0,85,700c
+66,66,BH Bikes,Aerolight,Tri,MD,509,420,0,0,100,700c
+67,67,BH Bikes,Aerolight,Tri,LA,528,431,0,0,120,700c
+68,68,BH Bikes,Aerolight,Tri,XL,547,443,0,0,140,700c
+69,69,BH Bikes,G6,Road,xs,514,375,0,0,110,700c
+70,70,BH Bikes,G6,Road,s,523,383,0,0,120,700c
+71,71,BH Bikes,G6,Road,m,549,384,0,0,150,700c
+72,72,BH Bikes,G6,Road,l,583,386,0,0,185,700c
+73,73,BH Bikes,G6,Road,xl,594,396,0,0,196,700c
+74,74,BH Bikes,Quartz,Road,xs,523,368,0,0,125,700c
+75,75,BH Bikes,Quartz,Road,s,540,365,0,0,140,700c
+76,76,BH Bikes,Quartz,Road,m,556,375,0,0,155,700c
+77,77,BH Bikes,Quartz,Road,l,581,379,0,0,180,700c
+78,78,BH Bikes,Quartz,Road,xl,596,388,0,0,195,700c
+79,79,BH Bikes,Quartz,Road,xxl,620,393,0,0,220,700c
+80,80,BH Bikes,Prisma,Road,xs,530,371,0,0,135,700c
+81,81,BH Bikes,Prisma,Road,s,551,377,0,0,150,700c
+82,82,BH Bikes,Prisma,Road,m,576,381,0,0,175,700c
+83,83,BH Bikes,Prisma,Road,l,591,389,0,0,190,700c
+84,84,BH Bikes,Prisma,Road,xl,614,395,0,0,215,700c
+85,85,BH Bikes,RX Team,Road,s,520,390,0,0,120,700c
+86,86,BH Bikes,RX Team,Road,m,536,406,0,0,135,700c
+87,87,BH Bikes,RX Team,Road,l,560,420,0,0,155,700c
+88,88,BH Bikes,RX Team,Road,xl,579,432,0,0,170,700c
+89,89,Bianchi,Oltre (Old),Road,53,529,383,0,0,130,700c
+90,90,Bianchi,Oltre (Old),Road,55,545,388,0,0,145,700c
+91,91,Bianchi,Oltre (Old),Road,57,561,393,0,0,160,700c
+92,92,Bianchi,Oltre (Old),Road,59,580,397,0,0,180,700c
+93,93,Bianchi,Oltre (Old),Road,61,601,397,0,0,200,700c
+94,94,Bianchi,Oltre XR4,Road,47,490,377,0,0,105,700c
+95,95,Bianchi,Oltre XR4,Road,50,498,385,0,0,110,700c
+96,96,Bianchi,Oltre XR4,Road,53,524,385,0,0,125,700c
+97,97,Bianchi,Oltre XR4,Road,55,545,390,0,0,140,700c
+98,98,Bianchi,Oltre XR4,Road,57,556,395,0,0,155,700c
+99,99,Bianchi,Oltre XR4,Road,59,575,398,0,0,175,700c
+100,100,Bianchi,Oltre XR4,Road,61,594,398,0,0,195,700c
+101,101,Bianchi,Oltre XR3,Road,47,495,375,0,0,110,700c
+102,102,Bianchi,Oltre XR3,Road,50,503,382,0,90,115,700c
+103,103,Bianchi,Oltre XR3,Road,53,529,383,0,0,130,700c
+104,104,Bianchi,Oltre XR3,Road,55,546,388,0,0,145,700c
+105,105,Bianchi,Oltre XR3,Road,57,561,393,0,0,160,700c
+106,106,Bianchi,Oltre XR3,Road,59,580,396,0,0,180,700c
+107,107,Bianchi,Oltre XR3,Road,61,601,397,0,0,200,700c
+108,108,Bianchi,Aria,Road,47,490,379,0,0,105,700c
+109,109,Bianchi,Aria,Road,50,499,387,0,0,110,700c
+110,110,Bianchi,Aria,Road,53,525,385,0,0,125,700c
+111,111,Bianchi,Aria,Road,55,541,390,0,0,140,700c
+112,112,Bianchi,Aria,Road,57,557,395,0,0,155,700c
+113,113,Bianchi,Aria,Road,59,576,397,0,0,175,700c
+114,114,Bianchi,Aria,Road,61,595,398,0,0,195,700c
+115,115,Bianchi,Infinito CV,Road,47,521,371,0,0,120,700c
+116,116,Bianchi,Infinito CV,Road,50,539,375,0,0,135,700c
+117,117,Bianchi,Infinito CV,Road,53,553,376,0,0,150,700c
+118,118,Bianchi,Infinito CV,Road,55,569,381,0,0,165,700c
+119,119,Bianchi,Infinito CV,Road,57,585,386,0,0,180,700c
+120,120,Bianchi,Infinito CV,Road,59,599,392,0,0,195,700c
+121,121,Bianchi,Infinito CV,Road,61,614,392,0,0,210,700c
+122,122,Bianchi,Infinito CV Chorus,Road,47,519,368,0,0,125,700c
+123,123,Bianchi,Infinito CV Chorus,Road,50,537,373,0,0,140,700c
+124,124,Bianchi,Infinito CV Chorus,Road,53,551,375,0,0,155,700c
+125,125,Bianchi,Infinito CV Chorus,Road,57,583,386,0,0,185,700c
+126,126,Bianchi,Infinito CV Chorus,Road,55,567,381,0,0,170,700c
+127,127,Bianchi,Infinito CV Chorus,Road,59,598,391,0,0,200,700c
+128,128,Bianchi,Infinito CV Chorus,Road,61,612,392,0,0,215,700c
+129,129,Bianchi,Infinito CV Chorus,Road,63,628,397,0,0,230,700c
+130,130,Bianchi,Infinito CV Chorus,Road,44,495,367,0,0,110,700c
+131,131,Bianchi,Impulso,Road,50,531,376,0,0,130,700c
+132,132,Bianchi,Impulso,Road,53,546,377,0,0,145,700c
+133,133,Bianchi,Impulso,Road,55,557,384,0,0,155,700c
+134,134,Bianchi,Impulso,Road,57,576,388,0,0,175,700c
+135,135,Bianchi,Impulso,Road,59,587,395,0,0,185,700c
+136,136,Bianchi,Impulso,Road,61,611,393,0,0,210,700c
+137,137,Bianchi,Impulso All Road,Road,47,538,366,0,0,120,700c
+138,138,Bianchi,Impulso All Road,Road,50,546,374,0,0,125,700c
+139,139,Bianchi,Impulso All Road,Road,53,553,377,0,0,130,700c
+140,140,Bianchi,Impulso All Road,Road,55,567,382,0,0,145,700c
+141,141,Bianchi,Impulso All Road,Road,57,578,389,0,0,155,700c
+142,142,Bianchi,Impulso All Road,Road,59,597,392,0,0,175,700c
+143,143,Bianchi,Impulso All Road,Road,61,610,393,0,0,185,700c
+144,144,Bianchi,Aquila,Tri,XS,483,378,0,563,80,700c
+145,145,Bianchi,Aquila,Tri,S,492,403,0,590,90,700c
+146,146,Bianchi,Aquila,Tri,M,521,422,0,618,120,700c
+147,147,Bianchi,Aquila,Tri,L,550,440,0,645,150,700c
+148,148,Blue,Triad,Tri,SM,507,381,0,0,95,700c
+149,149,Blue,Triad,Tri,MD,526,401,0,0,115,700c
+150,150,Blue,Triad,Tri,ML,545,417,0,0,135,700c
+151,151,Blue,Triad,Tri,L,564,432,0,0,155,700c
+152,152,Blue,Triad,Tri,XS,494,375,0,0,85,700c
+153,153,Blue,Axino,Road,XS,505,360,0,0,108,700c
+154,154,Blue,Axino,Road,SM,530,369,0,0,128,700c
+155,155,Blue,Axino,Road,MD,555,378,0,0,148,700c
+156,156,Blue,Axino,Road,ML,580,387,0,0,173,700c
+157,157,Blue,Axino,Road,LG,605,396,0,0,199,700c
+158,158,Blue,AC1 SL,Road,XS,496,366,0,0,100,700c
+159,159,Blue,AC1 SL,Road,SM,520,377,0,0,125,700c
+160,160,Blue,AC1 SL,Road,MD,524,379,0,0,145,700c
+161,161,Blue,AC1 SL,Road,ML,557,389,0,0,160,700c
+162,162,Blue,AC1 SL,Road,LG,570,400,0,0,175,700c
+163,163,Blue,AC1 SL,Road,XL,590,413,0,0,195,700c
+164,164,BMC,Team Machine,Road,47,506,370,0,0,113,700c
+165,165,BMC,Team Machine,Road,50,530,378,0,0,133,700c
+166,166,BMC,Team Machine,Road,53,551,387,0,0,153,700c
+167,167,BMC,Team Machine,Road,55,565,392,0,0,168,700c
+168,168,BMC,Team Machine,Road,57,584,402,0,0,188,700c
+169,169,BMC,Team Machine,Road,60,608,410,0,0,213,700c
+170,170,BMC,Road Racer,Road,48,508,369,0,0,115,700c
+171,171,BMC,Road Racer,Road,51,515,382,0,0,120,700c
+172,172,BMC,Road Racer,Road,54,545,389,0,0,145,700c
+173,173,BMC,Road Racer,Road,57,574,395,0,0,175,700c
+174,174,BMC,Road Racer,Road,60,608,405,0,0,210,700c
+175,175,BMC,Gran Fondo,Road,48,525,354,0,0,148,700c
+176,176,BMC,Gran Fondo,Road,51,546,365,0,0,140,700c
+177,177,BMC,Gran Fondo,Road,54,563,375,0,0,160,700c
+178,178,BMC,Gran Fondo,Road,56,579,384,0,0,175,700c
+179,179,BMC,Gran Fondo,Road,58,599,395,0,0,195,700c
+180,180,BMC,Gran Fondo,Road,61,622,406,0,0,220,700c
+181,181,BMC,TM01,Tri,M-S,515,377,60,578,0,700c
+182,182,BMC,TM01,Tri,S,480,393,60,580,0,700c
+183,183,BMC,TM01,Tri,M-S,515,377,60,578,0,700c
+184,184,BMC,TM01,Tri,M-L,515,418,60,619,0,700c
+185,185,BMC,TM01,Tri,L,556,442,60,649,0,700c
+186,186,Boardman,Air,Road,XS,506,379,43,576,100,700c
+187,187,Boardman,Air,Road,S,527,379,43,582,120,700c
+188,188,Boardman,Air,Road,M,547,388,43,588,140,700c
+189,189,Boardman,Air,Road,L,567,397,43,597,160,700c
+190,190,Boardman,Air,Road,XL,576,409,43,612,170,700c
+191,191,Boardman,SLR,Road,XS,499,380,45,578,100,700c
+192,192,Boardman,SLR,Road,S,520,381,45,584,120,700c
+193,193,Boardman,SLR,Road,M,541,390,45,590,140,700c
+194,194,Boardman,SLR,Road,L,560,399,45,599,160,700c
+195,195,Boardman,SLR,Road,XL,570,411,45,614,170,700c
+196,196,Boardman,SLS,Road,XXS,491,359,0,0,100,700c
+197,197,Boardman,SLS,Road,XS,520,379,0,0,110,700c
+198,198,Boardman,SLS,Road,S,545,385,0,0,140,700c
+199,199,Boardman,SLS,Road,M,562,390,0,0,160,700c
+200,200,Boardman,SLS,Road,L,581,394,0,0,180,700c
+201,201,Boardman,SLS,Road,XL,595,403,0,0,195,700c
+202,202,Boardman,SLS,Road,XXL,614,410,0,0,220,700c
+203,203,Boardman,TTE,Tri,XS,496,385,0,0,90,700c
+204,204,Boardman,TTE,Tri,S,514,401,0,0,110,700c
+205,205,Boardman,TTE,Tri,M,533,417,0,0,130,700c
+206,206,Boardman,TTE,Tri,L,553,432,0,0,150,700c
+207,207,Cannondale,CAAD 10,Road,48,517,368,62,570,110,700c
+208,208,Cannondale,CAAD 10,Road,50,523,378,59,577,115,700c
+209,209,Cannondale,CAAD 10,Road,52,529,382,56,579,120,700c
+210,210,Cannondale,CAAD 10,Road,54,546,383,56,580,140,700c
+211,211,Cannondale,CAAD 10,Road,56,560,394,56,597,155,700c
+212,212,Cannondale,CAAD 10,Road,58,579,399,53,601,175,700c
+213,213,Cannondale,CAAD 10,Road,60,593,404,53,610,190,700c
+214,214,Cannondale,CAAD 10,Road,63,622,399,53,614,220,700c
+215,215,Cannondale,CAAD 8,Road,48,528,364,56,564,125,700c
+216,216,Cannondale,CAAD 8,Road,51,544,377,53,578,140,700c
+217,217,Cannondale,CAAD 8,Road,54,558,379,55,576,155,700c
+218,218,Cannondale,CAAD 8,Road,56,573,390,55,591,170,700c
+219,219,Cannondale,CAAD 8,Road,58,592,395,52,597,190,700c
+220,220,Cannondale,CAAD 8,Road,61,620,401,52,611,220,700c
+221,221,Cannondale,Slice,Tri,48,487,375,68,563,80,700c
+222,222,Cannondale,Slice,Tri,51,507,390,68,583,98,700c
+223,223,Cannondale,Slice,Tri,54,527,405,66,602,118,700c
+224,224,Cannondale,Slice,Tri,57,547,420,63,619,137,700c
+225,225,Cannondale,Slice,Tri,60,567,435,60,636,156,700c
+226,226,Cannondale,SuperSix,Tri,48,513,368,66,563,110,700c
+227,227,Cannondale,SuperSix,Tri,50,519,376,63,569,115,700c
+228,228,Cannondale,SuperSix,Tri,52,526,384,60,575,120,700c
+229,229,Cannondale,SuperSix,Tri,54,544,384,57,576,140,700c
+230,230,Cannondale,SuperSix,Tri,56,558,395,57,591,155,700c
+231,231,Cannondale,SuperSix,Tri,58,577,399,54,597,175,700c
+232,232,Cannondale,SuperSix,Tri,60,596,402,54,606,195,700c
+233,233,Cannondale,SuperSix,Tri,63,620,399,54,609,220,700c
+234,234,Cannondale,Slice,Tri,44,465,360,69,537,100,700c
+235,235,Cannondale,Slice RS,Tri,52,510,382,0,580,80,700c
+236,236,Cannondale,Slice RS,Tri,54,530,392,0,597,102,700c
+237,237,Cannondale,Slice RS,Tri,56,550,401,0,613,123,700c
+238,238,Cannondale,Slice RS,Tri,58,570,411,0,629,144,700c
+239,239,Cannondale,Slice RS,Tri,50,500,369,65,565,70,700c
+240,240,Cannondale,Superslice,Tri,50,465,408,64,594,56,700c
+241,241,Cannondale,Superslice,Tri,52,485,417,64,610,77,700c
+242,242,Cannondale,Superslice,Tri,54,504,425,64,624,98,700c
+243,243,Cannondale,Superslice,Tri,56,524,443,64,649,119,700c
+244,244,Cannondale,Superslice,Tri,58,544,451,64,654,140,700c
+245,245,Cannondale,Synapse,Road,48,537,360,65,578,127,700c
+246,246,Cannondale,Synapse,Road,51,557,368,62,588,146,700c
+247,247,Cannondale,Synapse,Road,54,576,376,58,597,166,700c
+248,248,Cannondale,Synapse,Road,56,597,384,55,606,186,700c
+249,249,Cannondale,Synapse,Road,58,618,392,52,615,208,700c
+250,250,Cannondale,Synapse,Road,61,639,400,0,630,230,700c
+251,251,Cannondale,Synapse Carbon 105,Road,48,528,362,65,578,127,700c
+252,252,Cannondale,Synapse Carbon 105,Road,51,549,370,62,588,146,700c
+253,253,Cannondale,Synapse Carbon 105,Road,54,570,378,63,591,166,700c
+254,254,Cannondale,Synapse Carbon 105,Road,56,590,386,60,601,186,700c
+255,255,Cannondale,Synapse Carbon 105,Road,58,611,394,57,610,208,700c
+256,256,Cannondale,Synapse Carbon 105,Road,61,631,402,0,625,229,700c
+257,257,Canyon,Aeroad,Road,xs,513,374,0,0,110,700c
+258,258,Canyon,Aeroad,Road,s,534,386,0,0,130,700c
+259,259,Canyon,Aeroad,Road,m,555,396,0,0,150,700c
+260,260,Canyon,Aeroad,Road,l,574,405,0,0,170,700c
+261,261,Canyon,Aeroad,Road,xl,593,415,0,0,190,700c
+262,262,Canyon,Aeroad,Road,xxl,612,424,0,0,210,700c
+263,263,Canyon,Ultimate,Road,xs,534,367,0,0,125,700c
+264,264,Canyon,Ultimate,Road,s,546,375,0,0,138,700c
+265,265,Canyon,Ultimate,Road,m,560,383,0,0,150,700c
+266,266,Canyon,Ultimate,Road,l,579,395,0,0,170,700c
+267,267,Canyon,Ultimate,Road,xl,598,406,0,0,190,700c
+268,268,Canyon,Ultimate,Road,xxl,617,417,0,0,210,700c
+269,269,Canyon,Ultimate,Road,xxxl,636,428,0,0,230,700c
+270,270,Canyon,Ultimate AL,Road,xs,528,373,0,0,125,700c
+271,271,Canyon,Ultimate AL,Road,s,542,376,0,0,138,700c
+272,272,Canyon,Ultimate AL,Road,m,558,384,0,0,150,700c
+273,273,Canyon,Ultimate AL,Road,l,579,395,0,0,170,700c
+274,274,Canyon,Ultimate AL,Road,xl,598,406,0,0,190,700c
+275,275,Canyon,Ultimate AL,Road,xxl,617,417,0,0,210,700c
+276,276,Canyon,Ultimate AL,Road,xxxl,636,428,0,0,230,700c
+277,277,Canyon,Roadlite,Road,xs,551,358,0,0,150,700c
+278,278,Canyon,Roadlite,Road,s,566,365,0,0,163,700c
+279,279,Canyon,Roadlite,Road,m,581,373,0,0,175,700c
+280,280,Canyon,Roadlite,Road,l,598,377,0,0,190,700c
+281,281,Canyon,Roadlite,Road,xl,619,393,0,0,212,700c
+282,282,Canyon,Roadlite,Road,xxl,636,399,0,0,230,700c
+283,283,Canyon,Roadlite,Road,xxxl,656,409,0,0,250,700c
+284,284,Canyon,Roadlite Team,Road,xs,548,355,0,0,150,700c
+285,285,Canyon,Roadlite Team,Road,s,563,363,0,0,163,700c
+286,286,Canyon,Roadlite Team,Road,m,577,370,0,0,175,700c
+287,287,Canyon,Roadlite Team,Road,l,594,378,0,0,190,700c
+288,288,Canyon,Roadlite Team,Road,xl,615,390,0,0,212,700c
+289,289,Canyon,Roadlite Team,Road,xxl,632,399,0,0,230,700c
+290,290,Canyon,Roadlite Team,Road,xxxl,651,410,0,0,250,700c
+291,291,Canyon,Speedmax,Tri,M,532,462,0,0,0,700c
+292,292,Canyon,Speedmax,Tri,S,504,439,0,0,70,700c
+293,293,Canyon,Speedmax,Tri,L,566,484,0,0,0,700c
+294,294,Ceepo,Viper,Tri,S,485,405,0,0,80,700c
+295,295,Ceepo,Viper,Tri,M,510,420,0,0,107,700c
+296,296,Ceepo,Viper,Tri,L,540,435,0,0,137,700c
+297,297,Ceepo,Viper,Tri,XL,570,445,0,0,166,700c
+298,298,Ceepo,Venom,Tri,S,486,401,0,0,85,700c
+299,299,Ceepo,Venom,Tri,M,504,413,0,0,100,700c
+300,300,Ceepo,Venom,Tri,L,527,423,0,0,125,700c
+301,301,Ceepo,Venom,Tri,XL,556,432,0,0,155,700c
+302,302,Ceepo,Katana,Tri,S,486,395,0,0,80,700c
+303,303,Ceepo,Katana,Tri,M,510,411,0,0,105,700c
+304,304,Ceepo,Katana,Tri,L,540,425,0,0,135,700c
+305,305,Ceepo,Katana,Tri,XL,570,440,0,0,167,700c
+306,306,Ceepo,Stinger,Tri,XS,488,378,0,0,85,700c
+307,307,Ceepo,Stinger,Tri,S,502,380,0,0,100,700c
+308,308,Ceepo,Stinger,Tri,M,528,388,0,0,125,700c
+309,309,Ceepo,Stinger,Tri,L,552,391,0,0,150,700c
+310,310,Ceepo,Stinger,Tri,XL,583,392,0,0,180,700c
+311,311,Cervelo,R-Series,Road,58,605,396,0,604,199,700c
+312,312,Cervelo,R-Series,Road,61,630,405,0,620,225,700c
+313,313,Cervelo,R-Series,Road,56,580,387,0,587,173,700c
+314,314,Cervelo,R-Series,Road,54,555,378,0,575,148,700c
+315,315,Cervelo,R-Series,Road,51,530,369,0,577,128,700c
+316,316,Cervelo,R-Series,Road,48,505,360,0,575,108,700c
+317,317,Cervelo,RS,Road,48,520,355,0,555,170,650c
+318,318,Cervelo,RS,Road,51,531,369,0,588,140,700c
+319,319,Cervelo,RS,Road,54,555,376,0,593,160,700c
+320,320,Cervelo,RS,Road,56,579,388,0,593,180,700c
+321,321,Cervelo,RS,Road,58,599,397,0,608,200,700c
+322,322,Cervelo,RS,Road,61,618,403,0,620,220,700c
+323,323,Cervelo,S5,Road,48,505,360,0,575,108,700c
+324,324,Cervelo,S5,Road,51,530,369,0,577,128,700c
+325,325,Cervelo,S5,Road,54,555,378,0,575,148,700c
+326,326,Cervelo,S5,Road,56,580,387,0,587,173,700c
+327,327,Cervelo,S5,Road,58,605,396,0,604,199,700c
+328,328,Cervelo,S5,Road,61,630,405,0,620,225,700c
+329,329,Cervelo,Old/Classic P2,Tri,48,461,389,0,568,111,650c
+330,330,Cervelo,New P2,Tri,51,506,397,0,583,97,700c
+331,331,Cervelo,Old/Classic P2,Tri,54,512,418,0,609,121,700c
+332,332,Cervelo,Old/Classic P2,Tri,51,482,405,0,586,90,700c
+333,333,Cervelo,Old/Classic P2,Tri,56,531,429,0,628,141,700c
+334,334,Cervelo,Old/Classic P2,Tri,58,550,440,0,643,161,700c
+335,335,Cervelo,Old/Classic P2,Tri,61,577,448,0,659,190,700c
+336,336,Cervelo,New P2,Tri,54,522,411,0,602,114,700c
+337,337,Cervelo,New P2,Tri,56,540,425,0,622,133,700c
+338,338,Cervelo,New P2,Tri,58,559,437,0,640,153,700c
+339,339,Cervelo,New P2,Tri,61,588,446,0,658,183,700c
+340,340,Cervelo,Older Cervelos,Tri,48,502,361,0,547,100,700c
+341,341,Cervelo,Older Cervelos,Tri,51,522,370,0,558,120,700c
+342,342,Cervelo,Older Cervelos,Tri,54,541,380,0,573,140,700c
+343,343,Cervelo,Older Cervelos,Tri,56,560,394,0,593,160,700c
+344,344,Cervelo,Older Cervelos,Tri,58,580,403,0,608,180,700c
+345,345,Cervelo,Older Cervelos,Tri,61,599,409,0,620,200,700c
+346,346,Cervelo,P5/New P3,Tri,48,485,381,0,583,84,700c
+347,347,Cervelo,New P2,Tri,48,485,381,0,583,84,700c
+348,348,Cervelo,Old/Classic P3,Tri,48,461,389,0,568,110,700c
+349,349,Cervelo,Old/Classic P3,Tri,51,482,405,0,586,90,700c
+350,350,Cervelo,Old/Classic P3,Tri,54,498,419,0,609,105,700c
+351,351,Cervelo,Old/Classic P3,Tri,56,516,433,0,626,125,700c
+352,352,Cervelo,Old/Classic P3,Tri,58,535,445,0,643,145,700c
+353,353,Cervelo,Old/Classic P3,Tri,61,564,454,0,659,175,700c
+354,354,Cervelo,P5/New P3,Tri,45,450,375,0,553,90,700c
+355,355,Cervelo,2019 P5,Tri,48,466,387,0,582,68,700c
+356,356,Cervelo,2019 P5,Tri,51,486,403,0,583,81,700c
+357,357,Cervelo,2019 P5,Tri,54,502,417,0,602,98,700c
+358,358,Cervelo,2019 P5,Tri,56,512,431,0,622,117,700c
+359,359,Cervelo,2019 P5,Tri,58,539,437,0,640,137,700c
+360,360,Cervelo,2019 P2/P3,Tri,48,485,381,0,583,84,700c
+361,361,Cervelo,2019 P2/P3,Tri,51,506,397,0,583,97,700c
+362,362,Cervelo,2019 P2/P3,Tri,54,522,411,0,602,114,700c
+363,363,Cervelo,2019 P2/P3,Tri,56,540,425,0,622,133,700c
+364,364,Cervelo,2019 P2/P3,Tri,58,559,437,0,640,153,700c
+365,365,Cervelo,2019 P2/P3,Tri,61,446,571,0,658,183,700c
+366,366,Cervelo,2019 P5X,Tri,S,468,386,0,582,76,700c
+367,367,Cervelo,2019 P5X,Tri,M,496,404,0,587,97,700c
+368,368,Cervelo,2019 P5X,Tri,L,524,423,0,614,126,700c
+369,369,Cervelo,2019 P5X,Tri,XL,552,442,0,642,156,700c
+370,370,Cervelo,P5/New P3,Tri,51,506,397,0,583,97,700c
+371,371,Cervelo,P5/New P3,Tri,54,522,411,0,602,114,700c
+372,372,Cervelo,P5/New P3,Tri,56,540,425,0,622,133,700c
+373,373,Cervelo,P5/New P3,Tri,58,559,437,0,640,153,700c
+374,374,Cervelo,P5/New P3,Tri,61,588,446,0,658,183,700c
+375,375,Colnago,C60,Road,42,516,376,0,580,122,700c
+376,376,Colnago,C60,Road,45,524,380,0,582,125,700c
+377,377,Colnago,C60,Road,48,528,384,0,584,127,700c
+378,378,Colnago,C60,Road,50,547,383,0,589,145,700c
+379,379,Colnago,C60,Road,52,565,384,0,593,163,700c
+380,380,Colnago,C60,Road,54,582,385,0,596,179,700c
+381,381,Colnago,C60,Road,56,591,396,0,606,187,700c
+382,382,Colnago,C60,Road,58,608,401,0,614,204,700c
+383,383,Colnago,C60,Road,60,628,403,0,649,225,700c
+384,384,Colnago,M10s,Road,42,519,371,0,580,124,700c
+385,385,Colnago,M10s,Road,45,524,376,0,582,127,700c
+386,386,Colnago,M10s,Road,48,530,381,0,584,130,700c
+387,387,Colnago,M10s,Road,50,546,382,0,589,146,700c
+388,388,Colnago,M10s,Road,52,567,382,0,593,166,700c
+389,389,Colnago,M10s,Road,54,582,386,0,596,181,700c
+390,390,Colnago,M10s,Road,56,592,397,0,606,190,700c
+391,391,Colnago,M10s,Road,58,607,401,0,615,206,700c
+392,392,Colnago,CX Zero,Road,42,524,372,0,580,130,700c
+393,393,Colnago,CX Zero,Road,45,533,376,0,582,135,700c
+394,394,Colnago,CX Zero,Road,48,540,378,0,584,140,700c
+395,395,Colnago,CX Zero,Road,50,558,378,0,589,158,700c
+396,396,Colnago,CX Zero,Road,52,577,380,0,593,176,700c
+397,397,Colnago,CX Zero,Road,54,595,382,0,596,193,700c
+398,398,Colnago,CX Zero,Road,56,609,392,0,606,206,700c
+399,399,Colnago,CX Zero,Road,58,627,396,0,615,225,700c
+400,400,Colnago,CLX 3.0,Road,42,507,374,0,580,119,700c
+401,401,Colnago,CLX 3.0,Road,45,510,380,0,585,122,700c
+402,402,Colnago,CLX 3.0,Road,48,527,385,0,589,129,700c
+403,403,Colnago,CLX 3.0,Road,50,545,385,0,591,147,700c
+404,404,Colnago,CLX 3.0,Road,52,562,382,0,594,164,700c
+405,405,Colnago,CLX 3.0,Road,54,576,385,0,596,176,700c
+406,406,Colnago,CLX 3.0,Road,57,597,400,0,606,183,700c
+407,407,Colnago,CLX 3.0,Road,59,606,409,0,617,203,700c
+408,408,Colnago,K.one Track,Track,S,485,390,0,0,79,700c
+409,409,Colnago,K.one Track,Track,M,500,410,0,0,95,700c
+410,410,Colnago,K.one Track,Track,L,530,440,0,0,136,700c
+411,411,Colnago,K.one Time Trial,Tri,XS,485,385,0,0,64,700c
+412,412,Colnago,K.one Time Trial,Tri,S,500,405,0,0,79,700c
+413,413,Colnago,K.one Time Trial,Tri,M,524,420,0,0,105,700c
+414,414,Colnago,K.one Time Trial,Tri,L,549,440,0,0,127,700c
+415,415,Colnago,K Zero,Tri,XS,507,393,0,0,78,700c
+416,416,Colnago,K Zero,Tri,S,513,402,0,0,85,700c
+417,417,Colnago,K Zero,Tri,M,533,407,0,0,105,700c
+418,418,Colnago,K Zero,Tri,L,554,424,0,0,123,700c
+419,419,Cube,Aerium,Tri,XS,487,396,0,0,74,700c
+420,420,Cube,Aerium,Tri,S,498,405,0,0,85,700c
+421,421,Cube,Aerium,Tri,M,518,421,0,0,106,700c
+422,422,Cube,Aerium,Tri,L,540,442,0,0,129,700c
+423,423,Cube,Aerium Super HPC,Tri,S,500,395,0,0,95,700c
+424,424,Cube,Aerium Super HPC,Tri,M,514,416,0,0,110,700c
+425,425,Cube,Aerium Super HPC,Tri,L,530,437,0,0,125,700c
+426,426,Cube,Aerium Super HPC,Tri,XL,549,453,0,0,145,700c
+427,427,Devinci,Leo T2,Tri,S,476,402,0,0,70,700c
+428,428,Devinci,Leo T2,Tri,M,488,414,0,0,83,700c
+429,429,Devinci,Leo T2,Tri,L,520,422,0,0,115,700c
+430,430,Devinci,Leo T2,Tri,XL,552,427,0,0,150,700c
+431,431,Devinci,Leo,Road,XS,505,375,0,0,110,700c
+432,432,Devinci,Leo,Road,S,528,378,0,0,130,700c
+433,433,Devinci,Leo,Road,M,555,381,0,0,155,700c
+434,434,Devinci,Leo,Road,L,579,389,0,0,180,700c
+435,435,Devinci,Leo,Road,XL,612,389,0,0,215,700c
+436,436,Devinci,Silverstone,Road,XS,505,375,0,0,110,700c
+437,437,Devinci,Silverstone,Road,S,528,380,0,0,130,700c
+438,438,Devinci,Silverstone,Road,M,555,381,0,0,155,700c
+439,439,Devinci,Silverstone,Road,L,578,389,0,0,180,700c
+440,440,Devinci,Silverstone,Road,XL,612,397,0,0,215,700c
+441,441,Diamondback,Serios,Tri,50,501,395,0,0,103,700c
+442,442,Diamondback,Serios,Tri,54,532,408,0,0,125,700c
+443,443,Diamondback,Serios,Tri,56,552,421,0,0,146,700c
+444,444,Diamondback,Serios,Tri,58,572,434,0,0,167,700c
+445,445,Diamondback,Andean,Tri,XS,490,385,0,0,81,700c
+446,446,Diamondback,Andean,Tri,M,518,400,0,0,106,700c
+447,447,Diamondback,Andean,Tri,L,543,415,0,0,132,700c
+448,448,Diamondback,Andean,Tri,XL,568,430,0,0,158,700c
+449,449,Diamondback,Podium,Road,50,518,372,0,0,115,700c
+450,450,Diamondback,Podium,Road,52,539,376,0,0,135,700c
+451,451,Diamondback,Podium,Road,54,552,380,0,0,150,700c
+452,452,Diamondback,Podium,Road,56,567,387,0,0,165,700c
+453,453,Diamondback,Podium,Road,58,579,398,0,0,180,700c
+454,454,Diamondback,Podium,Road,60,603,402,0,0,205,700c
+455,455,Diamondback,Century,Road,50,530,369,0,0,125,700c
+456,456,Diamondback,Century,Road,52,551,372,0,0,145,700c
+457,457,Diamondback,Century,Road,54,563,375,0,0,160,700c
+458,458,Diamondback,Century,Road,56,582,381,0,0,180,700c
+459,459,Diamondback,Century,Road,58,601,391,0,0,200,700c
+460,460,Diamondback,Century,Road,60,615,397,0,0,220,700c
+461,461,Diamondback,Airen,Road,48,501,342,0,0,105,700c
+462,462,Diamondback,Airen,Road,50,526,368,0,0,130,700c
+463,463,Diamondback,Airen,Road,52,549,370,0,0,150,700c
+464,464,Diamondback,Airen,Road,54,573,372,0,0,175,700c
+465,465,Diamondback,Airen,Road,56,591,374,0,0,195,700c
+466,466,Dimond,2019 Dimond,Tri,XS,490,390,0,571,0,700c
+467,467,Dimond,2019 Dimond,Tri,S,515,405,0,587,0,700c
+468,468,Dimond,2019 Dimond,Tri,M,540,425,0,616,0,700c
+469,469,Dimond,2019 Dimond,Tri,L,585,440,0,650,0,700c
+470,470,Falco,Falco V,Tri,S,500,379,0,0,95,700c
+471,471,Falco,Falco V,Tri,M,528,394,0,0,115,700c
+472,472,Falco,Falco V,Tri,L,558,409,0,0,145,700c
+473,473,Felt,Felt-AR,Road,51,523,379,0,579,120,700c
+474,474,Felt,Felt-AR,Road,54,546,383,0,580,140,700c
+475,475,Felt,Felt-AR,Road,56,567,392,0,588,160,700c
+476,476,Felt,Felt-AR,Road,58,588,406,0,603,180,700c
+477,477,Felt,Felt-AR,Road,61,617,417,0,622,210,700c
+478,478,Felt,Felt-F,Road,48,500,370,57,577,100,700c
+479,479,Felt,Felt-F,Road,51,513,382,54,578,110,700c
+480,480,Felt,Felt-F,Road,54,527,389,56,580,120,700c
+481,481,Felt,Felt-F,Road,56,548,397,55,588,120,700c
+482,482,Felt,Felt-F,Road,58,569,412,52,604,160,700c
+483,483,Felt,Felt-F,Road,61,608,419,52,622,200,700c
+484,484,Felt,Felt-Z,Road,51,543,373,57,584,140,700c
+485,485,Felt,Felt-Z,Road,54,564,383,54,595,160,700c
+486,486,Felt,Felt-Z,Road,56,583,387,54,605,180,700c
+487,487,Felt,Felt-Z,Road,58,602,391,54,615,200,700c
+488,488,Felt,Felt-Z,Road,61,621,405,54,635,220,700c
+489,489,Felt,Felt-ZW,Road,Petite,484,370,55,561,130,650c
+490,490,Felt,Felt-ZW,Road,Small,520,377,58,584,120,700c
+491,491,Felt,Felt-ZW,Road,Medium,541,374,57,584,140,700c
+492,492,Felt,Felt-ZW,Road,Tall,561,384,54,595,160,700c
+493,493,Felt,B-Series pre-2012,Tri,48,467,386,0,562,115,650c
+494,494,Felt,B-Series pre-2012,Tri,50,483,391,0,568,130,650c
+495,495,Felt,B-Series pre-2012,Tri,52,502,406,0,589,100,700c
+496,496,Felt,B-Series pre-2012,Tri,54,513,414,0,595,110,700c
+497,497,Felt,B-Series pre-2012,Tri,56,527,426,0,612,125,700c
+498,498,Felt,B-Series pre-2012,Tri,58,546,449,0,640,145,700c
+499,499,Felt,B-Series pre-2012,Tri,60,561,461,0,657,160,700c
+500,500,Felt,DA-Series,Tri,51,488,389,0,577,80,700c
+501,501,Felt,DA-Series,Tri,54,497,416,0,593,88,700c
+502,502,Felt,DA-Series,Tri,56,516,432,0,614,108,700c
+503,503,Felt,DA-Series,Tri,58,536,447,0,635,128,700c
+504,504,Felt,Classic IA,Tri,48,478,379,0,572,68,700c
+505,505,Felt,Classic IA,Tri,51,505,387,0,589,96,700c
+506,506,Felt,Classic IA,Tri,54,522,404,0,602,111,700c
+507,507,Felt,Classic IA,Tri,56,546,425,0,630,136,700c
+508,508,Felt,Classic IA,Tri,58,572,445,0,659,163,700c
+509,509,Felt,New IA 2019,Tri,48,467,380,0,570,63,700c
+510,510,Felt,New IA 2019,Tri,51,489,395,0,591,86,700c
+511,511,Felt,New IA 2019,Tri,54,513,406,0,601,109,700c
+512,512,Felt,New IA 2019,Tri,56,537,424,0,626,134,700c
+513,513,Felt,New IA 2019,Tri,58,559,443,0,652,157,700c
+514,514,Felt,DA-Series,Tri,47,433,387,0,565,78,650c
+515,515,Felt,B-Series 2013,Tri,47,468,375,0,565,115,650c
+516,516,Felt,B-Series 2013,Tri,51,521,388,0,577,115,700c
+517,517,Felt,B-Series 2013,Tri,54,536,405,0,593,127,700c
+518,518,Felt,B-Series 2013,Tri,56,556,420,0,614,147,700c
+519,519,Felt,B-Series 2013,Tri,58,576,435,0,635,167,700c
+520,520,Felt,B-Series 2013,Tri,61,606,443,0,652,198,700c
+521,521,Felt,Felt-AR,Road,48,510,367,0,577,110,700c
+522,522,Felt,IA3 Disc 2019,Tri,48,473,381,0,572,68,700c
+523,523,Felt,IA3 Disc 2019,Tri,51,501,389,0,589,96,700c
+524,524,Felt,IA3 Disc 2019,Tri,54,520,405,0,602,111,700c
+525,525,Felt,IA3 Disc 2019,Tri,56,544,426,0,630,136,700c
+526,526,Felt,IA3 Disc 2019,Tri,58,569,447,0,695,163,700c
+527,527,Focus,Izalco Team SL 3.0,Road,xxs,505,383,0,0,105,700c
+528,528,Focus,Izalco Team SL 3.0,Road,xs,510,382,0,0,110,700c
+529,529,Focus,Izalco Team SL 3.0,Road,s,515,390,0,0,112,700c
+530,530,Focus,Izalco Team SL 3.0,Road,m,536,389,0,0,133,700c
+531,531,Focus,Izalco Team SL 3.0,Road,l,552,392,0,0,146,700c
+532,532,Focus,Izalco Team SL 3.0,Road,xl,571,401,0,0,166,700c
+533,533,Focus,Izalco Team SL 3.0,Road,xxl,592,407,0,0,187,700c
+534,534,Focus,Izalco Team SL 4.0,Road,xxs,508,382,0,0,105,700c
+535,535,Focus,Izalco Team SL 4.0,Road,xs,512,381,0,0,110,700c
+536,536,Focus,Izalco Team SL 4.0,Road,s,518,389,0,0,112,700c
+537,537,Focus,Izalco Team SL 4.0,Road,m,538,389,0,0,132,700c
+538,538,Focus,Izalco Team SL 4.0,Road,l,554,390,0,0,146,700c
+539,539,Focus,Izalco Team SL 4.0,Road,xl,573,400,0,0,166,700c
+540,540,Focus,Izalco Team SL 4.0,Road,xxl,593,406,0,0,187,700c
+541,541,Focus,Cayo Evo,Road,xs,504,383,0,0,105,700c
+542,542,Focus,Cayo Evo,Road,s,509,392,0,0,110,700c
+543,543,Focus,Cayo Evo,Road,m,537,389,0,0,135,700c
+544,544,Focus,Cayo Evo,Road,l,574,395,0,0,170,700c
+545,545,Focus,Cayo Evo,Road,xl,603,401,0,0,200,700c
+546,546,Focus,Izalco Ergoride/Donna,Road,xxs,541,365,0,0,145,700c
+547,547,Focus,Izalco Ergoride/Donna,Road,xs,545,376,0,0,150,700c
+548,548,Focus,Izalco Ergoride/Donna,Road,s,561,377,0,0,165,700c
+549,549,Focus,Izalco Ergoride/Donna,Road,m,580,380,0,0,180,700c
+550,550,Focus,Izalco Ergoride/Donna,Road,l,598,389,0,0,200,700c
+551,551,Focus,Izalco Ergoride/Donna,Road,xl,617,394,0,0,220,700c
+552,552,Focus,Izalco Ergoride/Donna,Road,xxl,637,389,0,0,240,700c
+553,553,Focus,Izalco Max,Road,xxs,508,375,0,0,110,700c
+554,554,Focus,Izalco Max,Road,xs,515,379,0,0,115,700c
+555,555,Focus,Izalco Max,Road,s,520,384,0,0,120,700c
+556,556,Focus,Izalco Max,Road,m,537,390,0,0,135,700c
+557,557,Focus,Izalco Max,Road,l,565,398,0,0,160,700c
+558,558,Focus,Izalco Max,Road,xl,584,405,0,0,180,700c
+559,559,Focus,Izalco Max,Road,xxl,603,420,0,0,200,700c
+560,560,Fuji,D6,Tri,48,481,354,58,0,80,700c
+561,561,Fuji,D6,Tri,50,490,372,58,0,90,700c
+562,562,Fuji,D6,Tri,52,500,390,58,0,100,700c
+563,563,Fuji,D6,Tri,54,509,402,58,0,110,700c
+564,564,Fuji,D6,Tri,56,525,424,58,0,120,700c
+565,565,Fuji,D6,Tri,58,525,445,58,0,120,700c
+566,566,Fuji,D6,Tri,60,538,460,58,0,140,700c
+567,567,Fuji,Aloha,Tri,S,506,407,0,0,105,700c
+568,568,Fuji,Aloha,Tri,S/M,511,421,0,0,110,700c
+569,569,Fuji,Aloha,Tri,M,521,434,0,0,120,700c
+570,570,Fuji,Aloha,Tri,M/L,530,447,0,0,130,700c
+571,571,Fuji,Aloha,Tri,L,549,457,0,0,150,700c
+572,572,Fuji,Aloha,Tri,XL,568,469,0,0,170,700c
+573,573,Fuji,Norcom,Tri,S,488,391,0,0,85,700c
+574,574,Fuji,Norcom,Tri,M,493,405,0,0,90,700c
+575,575,Fuji,Norcom,Tri,L,503,420,0,0,100,700c
+576,576,Fuji,Norcom,Tri,XL,540,435,0,0,140,700c
+577,577,Fuji,Norcom,Tri,XXL,565,449,0,0,164,700c
+578,578,Fuji,Altamira,Road,s,517,363,0,0,120,700c
+579,579,Fuji,Altamira,Road,s/m,528,370,0,0,130,700c
+580,580,Fuji,Altamira,Road,m,540,370,0,0,140,700c
+581,581,Fuji,Altamira,Road,m/l,560,379,0,0,160,700c
+582,582,Fuji,Altamira,Road,l,580,389,0,0,180,700c
+583,583,Fuji,Altamira,Road,l/xl,600,397,0,0,200,700c
+584,584,Fuji,SST,Road,s,513,380,0,0,110,700c
+585,585,Fuji,SST,Road,s/m,523,375,0,0,120,700c
+586,586,Fuji,SST,Road,m,535,386,0,0,130,700c
+587,587,Fuji,SST,Road,m/l,555,396,0,0,150,700c
+588,588,Fuji,SST,Road,l,574,405,0,0,170,700c
+589,589,Fuji,SST,Road,l/xl,580,418,0,0,180,700c
+590,590,Giant,TCR Advanced,Road,s,536,374,0,0,135,700c
+591,591,Giant,TCR Advanced,Road,xs,516,371,0,0,120,700c
+592,592,Giant,TCR Advanced,Road,m,554,386,0,0,150,700c
+593,593,Giant,TCR Advanced,Road,ml,573,391,0,0,170,700c
+594,594,Giant,TCR Advanced,Road,l,587,401,0,0,185,700c
+595,595,Giant,TCR Advanced,Road,xl,602,412,0,0,200,700c
+596,596,Giant,Giant Defy,Road,xs,521,359,0,0,125,700c
+597,597,Giant,Giant Defy,Road,s,545,370,0,0,145,700c
+598,598,Giant,Giant Defy,Road,m,566,376,0,0,165,700c
+599,599,Giant,Giant Defy,Road,ml,585,380,0,0,185,700c
+600,600,Giant,Giant Defy,Road,l,604,390,0,0,205,700c
+601,601,Giant,Propel,Road,s,534,377,62,579,135,700c
+602,602,Giant,Propel,Road,m,552,386,56,585,150,700c
+603,603,Giant,Propel,Road,ml,566,391,56,595,170,700c
+604,604,Giant,Propel,Road,l,580,402,56,610,185,700c
+605,605,Giant,Propel,Road,xl,594,412,56,624,200,700c
+606,606,Giant,Trinity,Tri,XS,491,425,0,0,90,700c
+607,607,Giant,Trinity,Tri,S,510,402,0,0,110,700c
+608,608,Giant,Trinity,Tri,M,530,417,0,0,130,700c
+609,609,Giant,Trinity,Tri,L,549,430,0,0,150,700c
+610,610,Giant,Trinity,Tri,XL,563,444,0,0,170,700c
+611,611,Giant,Trinity Advanced Pro,Tri,XS,482,398,0,0,80,700c
+612,612,Giant,Trinity Advanced Pro,Tri,S,510,410,0,0,110,700c
+613,613,Giant,Trinity Advanced Pro,Tri,M,539,417,0,0,140,700c
+614,614,Giant,Trinity Advanced Pro,Tri,L,568,423,0,0,170,700c
+615,615,Giant,Envie,Road,xs,525,369,70,578,130,700c
+616,616,Giant,Envie,Road,s,543,371,64,577,145,700c
+617,617,Giant,Envie,Road,m,561,378,57,580,160,700c
+618,618,Giant,Envie,Road,l,575,383,57,590,180,700c
+619,619,Guru,Flite,Road,xs,513,381,65,582,120,700c
+620,620,Guru,Flite,Road,s,535,386,62,588,140,700c
+621,621,Guru,Flite,Road,m,553,391,56,588,155,700c
+622,622,Guru,Flite,Road,l,572,395,56,598,175,700c
+623,623,Guru,Flite,Road,xl,588,400,53,608,195,700c
+624,624,Guru,FFR Geometry,Road,xs,504,371,59,576,110,700c
+625,625,Guru,FFR Geometry,Road,s,524,381,58,591,130,700c
+626,626,Guru,FFR Geometry,Road,m,560,391,58,594,160,700c
+627,627,Guru,FFR Geometry,Road,l,588,403,58,614,190,700c
+628,628,Guru,FFR Geometry,Road,xl,608,412,58,629,210,700c
+629,629,Guru,FFR Geometry,Road,xxl,627,417,58,639,230,700c
+630,630,Guru,FFX Geometry,Road,xs,508,367,58,570,110,700c
+631,631,Guru,FFX Geometry,Road,s,537,375,58,586,140,700c
+632,632,Guru,FFX Geometry,Road,m,563,383,58,583,160,700c
+633,633,Guru,FFX Geometry,Road,l,587,396,58,603,185,700c
+634,634,Guru,FFX Geometry,Road,xl,601,407,58,618,200,700c
+635,635,Guru,FFX Geometry,Road,xxl,615,417,58,633,215,700c
+636,636,Guru,FFA Geometry,Road,XS,491,384,61,581,90,700c
+637,637,Guru,FFA Geometry,Road,S,511,410,61,613,110,700c
+638,638,Guru,FFA Geometry,Road,M,530,426,61,636,130,700c
+639,639,Guru,FFA Geometry,Road,L,556,436,61,638,150,700c
+640,640,Guru,FFA Geometry,Road,XL,575,448,61,656,170,700c
+641,641,Guru,CR 301,Road,XS,482,398,69,585,84,700c
+642,642,Guru,CR 301,Road,S,502,413,65,605,104,700c
+643,643,Guru,CR 301,Road,M,522,428,63,625,124,700c
+644,644,Guru,CR 301,Road,L,541,444,62,644,144,700c
+645,645,Guru,CR 301,Road,XL,562,458,61,664,165,700c
+646,646,Jamis,Xenith Series,Road,44,492,372,0,0,100,700c
+647,647,Jamis,Xenith Series,Road,48,496,363,0,0,100,700c
+648,648,Jamis,Xenith Series,Road,51,517,371,0,0,120,700c
+649,649,Jamis,Xenith Series,Road,54,542,378,0,0,140,700c
+650,650,Jamis,Xenith Series,Road,56,561,394,0,0,160,700c
+651,651,Jamis,Xenith Series,Road,58,580,402,0,0,180,700c
+652,652,Jamis,Xenith Series,Road,61,599,407,0,0,200,700c
+653,653,Jamis,Xenith Series Femme,Road,44,492,372,0,0,100,700c
+654,654,Jamis,Xenith Series Femme,Road,48,494,377,0,0,100,700c
+655,655,Jamis,Xenith Series Femme,Road,51,511,377,0,0,120,700c
+656,656,Jamis,Xenith Series Femme,Road,54,538,376,0,0,140,700c
+657,657,Jamis,Xenith Endura,Road,48,529,373,0,0,125,700c
+658,658,Jamis,Xenith Endura,Road,51,552,381,0,0,150,700c
+659,659,Jamis,Xenith Endura,Road,54,578,367,0,0,170,700c
+660,660,Jamis,Xenith Endura,Road,56,599,382,0,0,190,700c
+661,661,Jamis,Xenith Endura,Road,58,618,391,0,0,210,700c
+662,662,Jamis,Xenith Endura,Road,61,637,395,0,0,230,700c
+663,663,Jamis,Xenith Endura Femme,Road,44,509,368,0,0,100,700c
+664,664,Jamis,Xenith Endura Femme,Road,48,535,367,0,0,125,700c
+665,665,Jamis,Xenith Endura Femme,Road,51,560,365,0,0,150,700c
+666,666,Jamis,Xenith Endura Femme,Road,54,586,362,0,0,170,700c
+667,667,Kestrel,4000,Road,47,467,397,63,567,509,650c
+668,668,Kestrel,4000,Road,50,525,394,58,587,115,700c
+669,669,Kestrel,4000,Road,52.5,530,403,55,595,120,700c
+670,670,Kestrel,4000,Road,55,536,418,53,609,125,700c
+671,671,Kestrel,4000,Road,57.5,541,440,53,633,130,700c
+672,672,Kestrel,4000,Road,59.5,547,450,52,642,135,700c
+673,673,Kestrel,Airfoil,Road,47,437,399,65,563,76,650c
+674,674,Kestrel,Airfoil,Road,50,466,409,64,579,105,650c
+675,675,Kestrel,Airfoil,Road,52,484,415,58,589,84,700c
+676,676,Kestrel,Airfoil,Road,54,508,421,57,607,92,700c
+677,677,Kestrel,Airfoil,Road,56,521,431,55,616,113,700c
+678,678,Kestrel,Airfoil,Road,59,550,439,54,630,142,700c
+679,679,Kestrel,RT1000,Road,47,523,365,63,567,120,700c
+680,680,Kestrel,RT1000,Road,50,546,368,58,570,140,700c
+681,681,Kestrel,RT1000,Road,53,564,372,57,574,160,700c
+682,682,Kestrel,RT1000,Road,56,588,375,57,583,185,700c
+683,683,Kestrel,RT1000,Road,59,611,387,54,597,210,700c
+684,684,Kestrel,RT1000,Road,62,639,407,54,617,240,700c
+685,685,Kestrel,Talon,Road,48,508,374,58,564,90,700c
+686,686,Kestrel,Talon,Road,52,522,388,57,575,102,700c
+687,687,Kestrel,Talon,Road,55,548,393,55,586,129,700c
+688,688,Kestrel,Talon,Road,57,565,397,54,593,149,700c
+689,689,Kestrel,Talon,Road,60,593,409,51,608,176,700c
+690,690,Kestrel,Talon X 2019,Road,XS,507,378,54,0,103,700c
+691,691,Kestrel,Talon X 2019,Road,S,520,391,50,0,115,700c
+692,692,Kestrel,Talon X 2019,Road,M,548,395,59,0,142,700c
+693,693,Kestrel,Talon X 2019,Road,L,568,395,57,0,162,700c
+694,694,Kestrel,Talon X 2019,Road,XL,593,409,54,0,189,700c
+695,695,Kestrel,5000 SL,Road,XS,499,365,58,0,100,700c
+696,696,Kestrel,5000 SL,Road,S,518,386,55,0,115,700c
+697,697,Kestrel,5000 SL,Road,M,543,405,53,0,140,700c
+698,698,Kestrel,5000 SL,Road,L,568,429,53,0,165,700c
+699,699,Kestrel,5000 SL,Road,XL,571,456,52,0,181,700c
+700,700,KHS Bicycles,SCR 2000,Tri,XS,490,384,0,0,90,700c
+701,701,KHS Bicycles,SCR 2000,Tri,S,498,399,0,0,90,700c
+702,702,KHS Bicycles,SCR 2000,Tri,M,517,413,0,0,110,700c
+703,703,KHS Bicycles,SCR 2000,Tri,L,537,428,0,0,130,700c
+704,704,KHS Bicycles,SCR 2000,Tri,XL,556,443,0,0,150,700c
+705,705,KHS Bicycles,Flite 780,Road,XS,514,373,0,0,120,700c
+706,706,KHS Bicycles,Flite 780,Road,S,526,376,0,0,130,700c
+707,707,KHS Bicycles,Flite 780,Road,M,547,378,0,0,150,700c
+708,708,KHS Bicycles,Flite 780,Road,L,567,392,0,0,170,700c
+709,709,KHS Bicycles,Flite 780,Road,XL,586,406,0,0,190,700c
+710,710,KHS Bicycles,Flite 780,Road,XXL,628,432,0,0,248,700c
+711,711,KHS Bicycles,Flite 780,Road,XXXL,670,435,0,0,292,700c
+712,712,KHS Bicycles,Flite 500,Road,XS,537,359,0,0,135,700c
+713,713,KHS Bicycles,Flite 500,Road,S,550,366,0,0,150,700c
+714,714,KHS Bicycles,Flite 500,Road,M,570,375,0,0,165,700c
+715,715,KHS Bicycles,Flite 500,Road,M/L,585,386,0,0,180,700c
+716,716,KHS Bicycles,Flite 500,Road,L,602,396,0,0,200,700c
+717,717,KHS Bicycles,Flite 500,Road,XL,626,399,0,0,225,700c
+718,718,KHS Bicycles,Flite 450,Road,XS,538,362,0,0,135,700c
+719,719,KHS Bicycles,Flite 450,Road,S,550,366,0,0,150,700c
+720,720,KHS Bicycles,Flite 450,Road,M,570,375,0,0,165,700c
+721,721,KHS Bicycles,Flite 450,Road,M/L,585,386,0,0,180,700c
+722,722,KHS Bicycles,Flite 450,Road,L,602,396,0,0,200,700c
+723,723,KHS Bicycles,Flite 280,Road,XXS,532,352,0,0,95,700c
+724,724,KHS Bicycles,Flite 280,Road,XS,553,355,0,0,115,700c
+725,725,KHS Bicycles,Flite 280,Road,S,566,362,0,0,130,700c
+726,726,KHS Bicycles,Flite 280,Road,M,595,374,0,0,155,700c
+727,727,KHS Bicycles,Flite 280,Road,L,622,386,0,0,185,700c
+728,728,KHS Bicycles,Flite 280,Road,XL,645,393,0,0,210,700c
+729,729,KHS Bicycles,Flite 223,Road,XS,551,356,0,0,115,700c
+730,730,KHS Bicycles,Flite 223,Road,S,564,362,0,0,130,700c
+731,731,KHS Bicycles,Flite 223,Road,M,594,373,0,0,155,700c
+732,732,KHS Bicycles,Flite 223,Road,L,620,385,0,0,185,700c
+733,733,KHS Bicycles,Flite 223,Road,XL,644,393,0,0,210,700c
+734,734,La Pierre,Pulsium,Road,XS,522,375,0,0,125,700c
+735,735,La Pierre,Pulsium,Road,S,543,374,0,0,145,700c
+736,736,La Pierre,Pulsium,Road,M,560,379,0,0,165,700c
+737,737,La Pierre,Pulsium,Road,L,579,388,0,0,185,700c
+738,738,La Pierre,Pulsium,Road,XL,603,395,0,0,210,700c
+739,739,La Pierre,Pulsium,Road,XXL,624,397,0,0,230,700c
+740,740,La Pierre,Sensium,Road,XS,516,377,0,0,120,700c
+741,741,La Pierre,Sensium,Road,S,537,378,0,0,140,700c
+742,742,La Pierre,Sensium,Road,M,558,377,0,0,160,700c
+743,743,La Pierre,Sensium,Road,L,578,383,0,0,180,700c
+744,744,La Pierre,Sensium,Road,XL,599,390,0,0,200,700c
+745,745,La Pierre,Audacio,Road,XS,517,377,0,0,120,700c
+746,746,La Pierre,Audacio,Road,S,537,378,0,0,140,700c
+747,747,La Pierre,Audacio,Road,M,558,376,0,0,160,700c
+748,748,La Pierre,Audacio,Road,L,579,382,0,0,180,700c
+749,749,La Pierre,Audacio,Road,XL,600,390,0,0,200,700c
+750,750,La Pierre,Audacio,Road,XXL,617,399,0,0,220,700c
+751,751,La Pierre,Aircode,Road,XS,520,371,0,0,125,700c
+752,752,La Pierre,Aircode,Road,S,525,374,0,0,130,700c
+753,753,La Pierre,Aircode,Road,M,548,383,0,0,150,700c
+754,754,La Pierre,Aircode,Road,L,567,391,0,0,170,700c
+755,755,La Pierre,Aircode,Road,XL,590,398,0,0,190,700c
+756,756,La Pierre,Aircode,Road,XXL,609,412,0,0,210,700c
+757,757,La Pierre,Xelius,Road,XS,513,373,0,0,115,700c
+758,758,La Pierre,Xelius,Road,S,527,374,0,0,130,700c
+759,759,La Pierre,Xelius,Road,M,550,382,0,0,150,700c
+760,760,La Pierre,Xelius,Road,L,569,396,0,0,170,700c
+761,761,La Pierre,Xelius,Road,XL,592,398,0,0,190,700c
+762,762,La Pierre,Aerostorm,Tri,S,472,389,0,0,80,700c
+763,763,La Pierre,Aerostorm,Tri,M,491,403,0,0,100,700c
+764,764,La Pierre,Aerostorm,Tri,L,510,415,0,0,120,700c
+765,765,Litespeed,L Series,Road,S,515,378,0,568,110,700c
+766,766,Litespeed,L Series,Road,M,536,381,0,573,130,700c
+767,767,Litespeed,L Series,Road,ML,566,387,0,587,160,700c
+768,768,Litespeed,L Series,Road,L,590,389,0,598,185,700c
+769,769,Litespeed,L Series,Road,XL,613,398,0,607,210,700c
+770,770,Litespeed,C Series,Road,S,517,378,0,568,110,700c
+771,771,Litespeed,C Series,Road,M,528,381,0,573,130,700c
+772,772,Litespeed,C Series,Road,ML,567,387,0,588,160,700c
+773,773,Litespeed,C Series,Road,L,591,389,0,598,185,700c
+774,774,Litespeed,C Series,Road,XL,616,402,0,613,210,700c
+775,775,Litespeed,M Series,Road,S,526,377,0,576,125,700c
+776,776,Litespeed,M Series,Road,M,545,377,0,583,145,700c
+777,777,Litespeed,M Series,Road,ML,561,383,0,589,160,700c
+778,778,Litespeed,M Series,Road,L,582,392,0,600,180,700c
+779,779,Litespeed,M Series,Road,XL,602,406,0,615,200,700c
+780,780,Litespeed,T1,Road,XS,502,374,0,566,90,700c
+781,781,Litespeed,T1,Road,S,514,377,0,568,98,700c
+782,782,Litespeed,T1,Road,M,533,382,0,575,115,700c
+783,783,Litespeed,T1,Road,ML,551,391,0,589,135,700c
+784,784,Litespeed,T1,Road,L,575,394,0,600,160,700c
+785,785,Litespeed,T1,Road,XL,602,401,0,604,185,700c
+786,786,Litespeed,T3,Road,XS,512,370,0,566,100,700c
+787,787,Litespeed,T3,Road,S,526,373,0,568,110,700c
+788,788,Litespeed,T3,Road,M,541,379,0,575,125,700c
+789,789,Litespeed,T3,Road,ML,564,388,0,589,145,700c
+790,790,Litespeed,T3,Road,L,584,391,0,600,170,700c
+791,791,Litespeed,T3,Road,XL,612,398,0,604,195,700c
+792,792,Litespeed,T5,Road,XS,526,363,0,566,110,700c
+793,793,Litespeed,T5,Road,S,541,366,0,568,125,700c
+794,794,Litespeed,T5,Road,M,564,372,0,575,145,700c
+795,795,Litespeed,T5,Road,ML,584,381,0,589,170,700c
+796,796,Litespeed,T5,Road,L,612,384,0,600,195,700c
+797,797,Litespeed,T5,Road,XL,637,391,0,607,220,700c
+798,798,Look,596,Tri,XS,514,374,0,0,125,700c
+799,799,Look,596,Tri,S,516,391,0,0,125,700c
+800,800,Look,596,Tri,M,548,403,0,0,155,700c
+801,801,Look,596,Tri,L,548,418,0,0,155,700c
+802,802,Look,675,Road,XS,525,362,68,569,132,700c
+803,803,Look,675,Road,S,537,370,66,575,144,700c
+804,804,Look,675,Road,M,553,377,63,581,157,700c
+805,805,Look,675,Road,L,567,386,61,592,172,700c
+806,806,Look,675,Road,XL,581,396,60,606,187,700c
+807,807,Look,695,Road,XS,516,371,71,576,122,700c
+808,808,Look,695,Road,S,535,380,65,581,140,700c
+809,809,Look,695,Road,M,560,384,58,583,162,700c
+810,810,Look,695,Road,L,567,394,58,596,170,700c
+811,811,Look,695,Road,XL,588,400,58,609,192,700c
+812,812,Look,695,Road,XXL,607,399,58,613,210,700c
+813,813,Look,796,Tri,XS/S,488,382,62,570,78,700c
+814,814,Look,796,Tri,S/M,523,409,62,608,114,700c
+815,815,Look,796,Tri,L/XL,557,436,62,646,150,700c
+816,816,Louis Garneau,Gennix R1/R2,Road,xs,507,374,60,0,110,700c
+817,817,Louis Garneau,Gennix R1/R2,Road,s,530,380,59,0,130,700c
+818,818,Louis Garneau,Gennix R1/R2,Road,m,548,385,57,0,150,700c
+819,819,Louis Garneau,Gennix R1/R2,Road,l,571,390,58,0,170,700c
+820,820,Louis Garneau,Gennix R1/R2,Road,xl,595,395,57,0,190,700c
+821,821,Louis Garneau,Gennix R1/R2,Road,xxl,609,400,56,0,210,700c
+822,822,Louis Garneau,Gennix E1,Road,xs,520,360,62,0,125,700c
+823,823,Louis Garneau,Gennix E1,Road,s,540,369,60,0,147,700c
+824,824,Louis Garneau,Gennix E1,Road,m,565,378,59,0,167,700c
+825,825,Louis Garneau,Gennix E1,Road,l,590,387,58,0,192,700c
+826,826,Louis Garneau,Gennix E1,Road,xl,620,396,56,0,225,700c
+827,827,Louis Garneau,Women Gennix,Road,s,520,360,62,0,125,700c
+828,828,Louis Garneau,Women Gennix,Road,m,540,369,60,0,147,700c
+829,829,Louis Garneau,Women Gennix,Road,l,565,378,59,0,167,700c
+830,830,Merckx,SS Geometry,Road,48,501,378,71,0,105,700c
+831,831,Merckx,SS Geometry,Road,50,511,383,69,0,114,700c
+832,832,Merckx,SS Geometry,Road,52,526,387,68,0,129,700c
+833,833,Merckx,SS Geometry,Road,54,541,392,64,0,145,700c
+834,834,Merckx,SS Geometry,Road,56,556,396,62,0,160,700c
+835,835,Merckx,SS Geometry,Road,58,571,401,60,0,174,700c
+836,836,Merckx,SS Geometry,Road,60,586,405,57,0,191,700c
+837,837,Merckx,Sloping Geometry,Road,42,526,368,67,0,129,700c
+838,838,Merckx,Sloping Geometry,Road,45,547,373,65,0,149,700c
+839,839,Merckx,Sloping Geometry,Road,48,568,378,62,0,173,700c
+840,840,Merckx,Sloping Geometry,Road,51,589,383,60,0,193,700c
+841,841,Merckx,Sloping Geometry,Road,54,610,388,57,0,216,700c
+842,842,Merckx,Female Sloping,Road,40,523,353,69,0,130,700c
+843,843,Merckx,Female Sloping,Road,43,546,360,67,0,155,700c
+844,844,Merckx,Female Sloping,Road,46,569,366,64,0,178,700c
+845,845,Merida,Reacto,Road,47,514,371,0,0,109,700c
+846,846,Merida,Reacto,Road,50,527,379,0,0,124,700c
+847,847,Merida,Reacto,Road,52,540,390,0,0,139,700c
+848,848,Merida,Reacto,Road,54,559,400,0,0,159,700c
+849,849,Merida,Reacto,Road,56,578,398,0,0,184,700c
+850,850,Merida,Reacto,Road,59,602,406,0,0,209,700c
+851,851,Merida,Scultura,Road,44,509,379,0,0,110,700c
+852,852,Merida,Scultura,Road,47,528,367,0,0,130,700c
+853,853,Merida,Scultura,Road,50,541,375,0,0,140,700c
+854,854,Merida,Scultura,Road,52,554,386,0,0,150,700c
+855,855,Merida,Scultura,Road,54,571,390,0,0,170,700c
+856,856,Merida,Scultura,Road,56,592,394,0,0,190,700c
+857,857,Merida,Scultura,Road,59,618,401,0,0,215,700c
+858,858,Merida,Scultura CF 907,Road,44,506,379,0,0,110,700c
+859,859,Merida,Scultura CF 907,Road,47,520,369,0,0,120,700c
+860,860,Merida,Scultura CF 907,Road,50,533,377,0,0,130,700c
+861,861,Merida,Scultura CF 907,Road,52,546,388,0,0,140,700c
+862,862,Merida,Scultura CF 907,Road,54,565,393,0,0,160,700c
+863,863,Merida,Scultura CF 907,Road,56,584,396,0,0,180,700c
+864,864,Merida,Scultura CF 907,Road,59,610,404,0,0,205,700c
+865,865,Merida,Ride,Road,44,553,370,0,0,150,700c
+866,866,Merida,Ride,Road,47,553,370,0,0,150,700c
+867,867,Merida,Ride,Road,50,567,373,0,0,160,700c
+868,868,Merida,Ride,Road,52,578,374,0,0,170,700c
+869,869,Merida,Ride,Road,54,599,373,0,0,190,700c
+870,870,Merida,Ride,Road,56,623,375,0,0,215,700c
+871,871,Merida,Ride,Road,59,647,382,0,0,240,700c
+872,872,Merida,Ride 90,Road,44,536,374,0,0,140,700c
+873,873,Merida,Ride 90,Road,47,546,372,0,0,150,700c
+874,874,Merida,Ride 90,Road,50,559,375,0,0,160,700c
+875,875,Merida,Ride 90,Road,52,570,377,0,0,170,700c
+876,876,Merida,Ride 90,Road,54,591,375,0,0,190,700c
+877,877,Merida,Ride 90,Road,56,615,377,0,0,215,700c
+878,878,Merida,Ride 90,Road,59,639,385,0,0,240,700c
+879,879,Merida,Ride CF 93,Road,47,542,373,0,0,150,700c
+880,880,Merida,Ride CF 93,Road,50,542,373,0,0,150,700c
+881,881,Merida,Ride CF 93,Road,52,555,376,0,0,160,700c
+882,882,Merida,Ride CF 93,Road,54,567,378,0,0,170,700c
+883,883,Merida,Ride CF 93,Road,56,587,376,0,0,190,700c
+884,884,Merida,Ride CF 93,Road,59,611,378,0,0,215,700c
+885,885,Merida,Ride CF 97,Road,47,581,366,0,0,130,700c
+886,886,Merida,Ride CF 97,Road,50,537,376,0,0,135,700c
+887,887,Merida,Ride CF 97,Road,52,558,375,0,0,155,700c
+888,888,Merida,Ride CF 97,,54,576,381,0,0,172,700c
+889,889,Merida,Ride CF 97,,56,598,382,0,0,195,700c
+890,890,Merida,Ride CF 97,,59,624,389,0,0,220,700c
+891,891,Neil Pryde,Race,,xs,500,370,0,0,100,700c
+892,892,Neil Pryde,Race,,s,539,375,0,0,120,700c
+893,893,Neil Pryde,Race,,m,555,381,0,0,140,700c
+894,894,Neil Pryde,Race,,l,574,385,0,0,160,700c
+895,895,Neil Pryde,Race,,xl,593,394,0,0,180,700c
+896,896,Neil Pryde,Zephyr,,xs,525,358,0,0,125,700c
+897,897,Neil Pryde,Zephyr,,s,545,361,0,0,140,700c
+898,898,Neil Pryde,Zephyr,,m,564,370,0,0,160,700c
+899,899,Neil Pryde,Zephyr,,l,578,378,0,0,175,700c
+900,900,Neil Pryde,Zephyr,,xl,596,390,0,0,195,700c
+901,901,Orbea,Orca,Road,49,515,368,0,0,112,700c
+902,902,Orbea,Orca,Road,51,533,373,0,0,130,700c
+903,903,Orbea,Orca,Road,53,552,380,0,0,145,700c
+904,904,Orbea,Orca,Road,55,572,386,0,0,165,700c
+905,905,Orbea,Orca,Road,57,590,393,0,0,182,700c
+906,906,Orbea,Orca,Road,60,616,404,0,0,207,700c
+907,907,Orbea,Orca,Road,47,506,365,0,0,104,700c
+908,908,Orbea,Dama,Road,47,505,365,0,0,104,700c
+909,909,Orbea,Dama,Road,49,510,365,0,0,110,700c
+910,910,Orbea,Dama,Road,51,533,370,0,0,129,700c
+911,911,Orbea,Dama,Road,53,546,373,0,0,140,700c
+912,912,Orbea,Old Ordu,Tri,48,497,375,0,0,90,700c
+913,913,Orbea,Old Ordu,Tri,51,512,395,0,0,65,700c
+914,914,Orbea,Old Ordu,Tri,54,520,409,0,0,104,700c
+915,915,Orbea,Old Ordu,Tri,57,530,422,0,0,111,700c
+916,916,Orbea,Old Ordu,Tri,48,467,381,0,565,100,650c
+917,917,Orbea,Old Ordu,Tri,51,501,395,0,0,0,700c
+918,918,Orbea,Ordu 2013,Tri,54,517,415,59,605,105,700c
+919,919,Orbea,Ordu 2013,Tri,57,552,444,56,640,140,700c
+920,920,Orbea,Ordu 2013,Tri,51,501,395,61,584,90,700c
+921,921,Orbea,Ordu 2013,Tri,48,467,381,56,565,100,650c
+922,922,Orbea,Ordu 2019,Tri,XS,465,370,0,0,72,700c
+923,923,Orbea,Ordu 2019,Tri,S,490,390,0,0,85,700c
+924,924,Orbea,Ordu 2019,Tri,M,515,410,0,0,104,700c
+925,925,Orbea,Ordu 2019,Tri,L,540,430,0,0,128,700c
+926,926,Orbea,Ordu 2019,Tri,XL,565,445,0,0,154,700c
+927,927,Orbea,Ordu M30,,XS,495,365,0,0,92,700c
+928,928,Orbea,Ordu M30,,S,523,392,0,0,120,700c
+929,929,Orbea,Ordu M30,,M,551,419,0,0,139,700c
+930,930,Orbea,Ordu M30,,L,580,443,0,0,169,700c
+931,931,Pinarello,65.1,Road,42,493,351,0,0,105,700c
+932,932,Pinarello,65.1,Road,44,501,357,0,0,110,700c
+933,933,Pinarello,65.1,Road,46.5,512,367,0,0,115,700c
+934,934,Pinarello,65.1,Road,47,525,373,0,0,125,700c
+935,935,Pinarello,65.1,Road,50,520,374,0,0,120,700c
+936,936,Pinarello,65.1,Road,51.5,527,380,0,0,125,700c
+937,937,Pinarello,65.1,Road,53,542,386,0,0,125,700c
+938,938,Pinarello,65.1,Road,54,550,386,0,0,147,700c
+939,939,Pinarello,65.1,Road,55,561,389,0,0,158,700c
+940,940,Pinarello,65.1,Road,56,569,391,0,0,165,700c
+941,941,Pinarello,65.1,Road,57.5,584,397,0,0,179,700c
+942,942,Pinarello,65.1,Road,59.5,612,394,0,0,215,700c
+943,943,Pinarello,65.1,Road,62,651,410,0,0,255,700c
+944,944,Pinarello,Dogma2,Road,42,501,347,0,0,115,700c
+945,945,Pinarello,Dogma2,Road,44,508,354,0,0,120,700c
+946,946,Pinarello,Dogma2,Road,46.5,515,366,0,0,125,700c
+947,947,Pinarello,Dogma2,Road,47,525,373,0,0,125,700c
+948,948,Pinarello,Dogma2,Road,50,528,371,0,0,130,700c
+949,949,Pinarello,Dogma2,Road,51.5,535,377,0,0,135,700c
+950,950,Pinarello,Dogma2,Road,53,535,377,0,0,149,700c
+951,951,Pinarello,Dogma2,Road,54,558,383,0,0,157,700c
+952,952,Pinarello,Dogma2,Road,55,569,386,0,0,168,700c
+953,953,Pinarello,Dogma2,Road,56,577,390,0,0,175,700c
+954,954,Pinarello,Dogma2,Road,57.5,592,394,0,0,189,700c
+955,955,Pinarello,Dogma2,Road,59.5,611,394,0,0,215,700c
+956,956,Pinarello,Dogma2,Road,62,649,411,0,0,255,700c
+957,957,Pinarello,Graal,Road,45,469,376,0,0,75,700c
+958,958,Pinarello,Graal,Road,49,486,389,0,0,90,700c
+959,959,Pinarello,Graal,Road,51,496,402,0,0,100,700c
+960,960,Pinarello,Graal,Road,53,510,413,0,0,115,700c
+961,961,Pinarello,Graal,Road,55,525,425,0,0,130,700c
+962,962,Pinarello,Graal,Road,57.5,549,433,0,0,155,700c
+963,963,Pinarello,Bolide,Road,45,492,369,0,557,90,700c
+964,964,Pinarello,Bolide,Road,48.5,515,386,0,576,106,700c
+965,965,Pinarello,Bolide,Road,52,530,405,0,595,120,700c
+966,966,Pinarello,Bolide,Road,55,543,424,0,618,134,700c
+967,967,Planet X,Stealth,Tri,S,497,386,0,0,95,700c
+968,968,Planet X,Stealth,Tri,M,501,405,0,0,100,700c
+969,969,Planet X,Stealth,Tri,L,510,420,0,0,120,700c
+970,970,Planet X,Stealth,Tri,XL,530,438,0,0,130,700c
+971,971,Planet X,Exocet,,S,481,401,0,0,80,700c
+972,972,Planet X,Exocet,,M,485,415,0,0,88,700c
+973,973,Planet X,Exocet,,L,497,437,0,0,100,700c
+974,974,Planet X,Exocet,,XL,523,447,0,0,125,700c
+975,975,Planet X,Pro Carbon,,SM,523,379,0,0,125,700c
+976,976,Planet X,Pro Carbon,,M,544,385,0,0,145,700c
+977,977,Planet X,Pro Carbon,,L,565,397,0,0,165,700c
+978,978,Planet X,Pro Carbon,,XL,590,405,0,0,190,700c
+979,979,Planet X,RT,,XS,513,373,0,0,110,700c
+980,980,Planet X,RT,,S,520,381,0,0,115,700c
+981,981,Planet X,RT,,M,543,385,0,0,140,700c
+982,982,Planet X,RT,,L,558,395,0,0,155,700c
+983,983,Planet X,RT,,XL,579,398,0,0,175,700c
+984,984,Planet X,RT,,XXL,598,402,0,0,195,700c
+985,985,Planet X,London,,S,571,532,0,0,120,700c
+986,986,Planet X,London,,M,596,554,0,0,140,700c
+987,987,Planet X,London,,L,620,573,0,0,160,700c
+988,988,Planet X,London,,XL,643,592,0,0,180,700c
+989,989,Planet X,RT-58,,XS,524,374,0,0,130,700c
+990,990,Planet X,RT-58,,S,546,378,0,0,140,700c
+991,991,Planet X,RT-58,,M,557,380,0,0,150,700c
+992,992,Planet X,RT-58,,L,577,386,0,0,170,700c
+993,993,Planet X,RT-58,,XL,597,393,0,0,190,700c
+994,994,Planet X,EXO3,,S,499,364,45,570,100,700c
+995,995,Planet X,EXO3,,M,517,385,45,586,115,700c
+996,996,Planet X,EXO3,,L,543,404,45,609,140,700c
+997,997,Planet X,EXO3,,XL,568,428,45,636,165,700c
+998,998,Quintana Roo,CD0.1,Tri,S,497,396,0,589,90,700c
+999,999,Quintana Roo,CD0.1,Tri,M,497,420,0,613,90,700c
+1000,1000,Quintana Roo,CD0.1,Tri,ML,517,438,0,636,110,700c
+1001,1001,Quintana Roo,CD0.1,Tri,L,545,452,0,659,140,700c
+1002,1002,Quintana Roo,PR Series,Tri,48,480,380,0,574,74,700c
+1003,1003,Quintana Roo,PR Series,Tri,50,500,390,0,584,95,700c
+1004,1004,Quintana Roo,PR Series,Tri,52,520,410,0,610,115,700c
+1005,1005,Quintana Roo,PR Series,Tri,54,540,425,0,633,142,700c
+1006,1006,Quintana Roo,PR Series,Tri,56,560,435,0,647,158,700c
+1007,1007,Quintana Roo,PR Series,Tri,58.5,585,445,0,665,184,700c
+1008,1008,Quintana Roo,Fit Series,,XS,453,393,0,572,100,700c
+1009,1009,Quintana Roo,Fit Series,,S,502,388,0,577,100,700c
+1010,1010,Quintana Roo,Fit Series,,M,527,403,0,605,125,700c
+1011,1011,Quintana Roo,Fit Series,,L,568,424,0,639,168,700c
+1012,1012,Raleigh,Militis,,50,514,383,0,0,115,700c
+1013,1013,Raleigh,Militis,,53,533,382,0,0,135,700c
+1014,1014,Raleigh,Militis,,55,549,382,0,0,150,700c
+1015,1015,Raleigh,Militis,,57,568,397,0,0,170,700c
+1016,1016,Raleigh,Militis,,59,584,402,0,0,185,700c
+1017,1017,Raleigh,Militis,,62,599,411,0,0,200,700c
+1018,1018,Ridley,Noah,,xs,530,375,0,0,130,700c
+1019,1019,Ridley,Noah,,s,545,385,0,0,145,700c
+1020,1020,Ridley,Noah,,m,575,390,0,0,175,700c
+1021,1021,Ridley,Noah,,l,602,400,0,0,205,700c
+1022,1022,Ridley,Noah,,xl,625,405,0,0,230,700c
+1023,1023,Ridley,Noah,,xxs,505,380,0,0,110,700c
+1024,1024,Ridley,Liz,,xxs,485,365,0,0,110,700c
+1025,1025,Ridley,Liz,,xs,492,370,0,0,115,700c
+1026,1026,Ridley,Liz,,s,500,375,0,0,130,700c
+1027,1027,Ridley,Liz,,m,522,380,0,0,155,700c
+1028,1028,Ruster Sports,Dimond,Tri,S,515,405,63,587,0,700c
+1029,1029,Ruster Sports,Dimond,Tri,M,540,425,63,616,0,700c
+1030,1030,Ruster Sports,Dimond,Tri,L,565,440,63,640,0,700c
+1031,1031,Scott,Foil,Road,47,503,371,0,0,100,700c
+1032,1032,Scott,Foil,Road,49,509,379,0,0,105,700c
+1033,1033,Scott,Foil,Road,52,527,384,0,0,120,700c
+1034,1034,Scott,Foil,Road,54,549,385,0,0,140,700c
+1035,1035,Scott,Foil,Road,56,569,394,0,0,160,700c
+1036,1036,Scott,Foil,Road,58,589,400,0,0,180,700c
+1037,1037,Scott,Foil,Road,61,608,403,0,0,200,700c
+1038,1038,Scott,CR1,Road,47,513,368,0,0,111,700c
+1039,1039,Scott,CR1,Road,49,513,368,0,0,116,700c
+1040,1040,Scott,CR1,Road,52,545,379,0,0,136,700c
+1041,1041,Scott,CR1,Road,54,565,383,0,0,156,700c
+1042,1042,Scott,CR1,Road,56,584,387,0,0,176,700c
+1043,1043,Scott,CR1,Road,58,603,394,0,0,196,700c
+1044,1044,Scott,CR1,Road,61,620,409,0,0,216,700c
+1045,1045,Scott,Contessa,Road,46,526,354,0,0,125,700c
+1046,1046,Scott,Contessa,Road,48,537,361,0,0,135,700c
+1047,1047,Scott,Contessa,Road,51,560,365,0,0,155,700c
+1048,1048,Scott,Contessa,Road,53,581,368,0,0,175,700c
+1049,1049,Scott,Contessa,Road,55,602,372,0,0,195,700c
+1050,1050,Scott,Plasma Premium,Tri,51,510,380,0,0,110,700c
+1051,1051,Scott,Plasma Premium,Tri,54,540,397,0,0,138,700c
+1052,1052,Scott,Plasma Premium,Tri,57,570,414,0,0,170,700c
+1053,1053,Scott,Plasma Premium,Tri,60,600,430,0,0,199,700c
+1054,1054,Scott,Plasma,Tri,51,500,383,0,0,100,700c
+1055,1055,Scott,Plasma,Tri,54,530,400,0,0,128,700c
+1056,1056,Scott,Plasma,Tri,57,560,417,0,0,159,700c
+1057,1057,Scott,Plasma,Tri,60,600,430,0,0,199,700c
+1058,1058,Specialized,Venge/Tarmac,Road,49,506,385,62,576,100,700c
+1059,1059,Specialized,Venge/Tarmac,Road,52,528,385,57,576,120,700c
+1060,1060,Specialized,Venge/Tarmac,Road,54,544,386,57,583,140,700c
+1061,1061,Specialized,Venge/Tarmac,Road,56,566,395,56,590,160,700c
+1062,1062,Specialized,Venge/Tarmac,Road,58,593,401,56,605,190,700c
+1063,1063,Specialized,Venge/Tarmac,Road,61,614,407,53,612,210,700c
+1064,1064,Specialized,Roubaix,Road,49,527,378,59,582,120,700c
+1065,1065,Specialized,Roubaix,Road,52,546,379,59,588,140,700c
+1066,1066,Specialized,Roubaix,Road,54,563,380,59,595,160,700c
+1067,1067,Specialized,Roubaix,Road,56,589,387,56,606,190,700c
+1068,1068,Specialized,Roubaix,Road,58,621,392,53,628,240,700c
+1069,1069,Specialized,Roubaix,Road,61,642,398,53,628,240,700c
+1070,1070,Specialized,Roubaix,Road,64,656,409,53,643,260,700c
+1071,1071,Specialized,Ruby,Road,44,518,370,68,577,120,700c
+1072,1072,Specialized,Ruby,Road,48,531,370,62,584,130,700c
+1073,1073,Specialized,Ruby,Road,51,546,370,60,587,145,700c
+1074,1074,Specialized,Ruby,Road,54,568,374,59,591,165,700c
+1075,1075,Specialized,Ruby,Road,57,590,390,59,614,190,700c
+1076,1076,Specialized,Old Shiv,Tri,XS,495,365,69,573,100,700c
+1077,1077,Specialized,Old Shiv,Tri,S,515,385,61,589,110,700c
+1078,1078,Specialized,Old Shiv,Tri,M,540,405,63,608,140,700c
+1079,1079,Specialized,Old Shiv,Tri,L,565,425,60,631,160,700c
+1080,1080,Specialized,Old Shiv,Tri,XL,590,445,60,659,190,700c
+1081,1081,Specialized,2019 Shiv,Tri,XS,484,372,68,578,70,700c
+1082,1082,Specialized,2019 Shiv,Tri,S,490,386,57,579,70,700c
+1083,1083,Specialized,2019 Shiv,Tri,M,514,401,62,596,94,700c
+1084,1084,Specialized,2019 Shiv,Tri,L,546,421,62,627,127,700c
+1085,1085,Specialized,2019 Shiv Expert,Tri,XS,495,365,65,574,99,700c
+1086,1086,Specialized,2019 Shiv Expert,Tri,S,514,385,58,590,115,700c
+1087,1087,Specialized,2019 Shiv Expert,Tri,M,540,405,60,609,139,700c
+1088,1088,Specialized,2019 Shiv Expert,Tri,L,565,425,57,632,163,700c
+1089,1089,Specialized,2019 Shiv Expert,Tri,XL,590,445,57,659,189,700c
+1090,1090,Storck,2019 Aero 2,Tri,47,468,386,0,0,60,700c
+1091,1091,Storck,2019 Aero 2,Tri,51,488,396,0,0,80,700c
+1092,1092,Storck,2019 Aero 2,Tri,55,509,420,0,0,100,700c
+1093,1093,Storck,Old Aero 2,,47,468,386,0,0,95,700c
+1094,1094,Storck,Old Aero 2,,51,488,395,0,0,115,700c
+1095,1095,Storck,Old Aero 2,,55,509,420,0,0,135,700c
+1096,1096,Time,Skylon,,XXS,514,372,0,576,122,700c
+1097,1097,Time,Skylon,,XS,526,374,0,578,133,700c
+1098,1098,Time,Skylon,,S,543,373,0,578,149,700c
+1099,1099,Time,Skylon,,M,562,383,0,584,166,700c
+1100,1100,Time,Skylon,,L,581,392,0,599,186,700c
+1101,1101,Time,Skylon,,XL,601,397,0,604,204,700c
+1102,1102,Time,Fluidity,,XXXS,512,367,0,575,123,700c
+1103,1103,Time,Fluidity,,XXS,537,364,0,576,147,700c
+1104,1104,Time,Fluidity,,XS,547,367,0,578,155,700c
+1105,1105,Time,Fluidity,,S,562,367,0,578,169,700c
+1106,1106,Time,Fluidity,,M,580,378,0,584,184,700c
+1107,1107,Time,Fluidity,,L,596,388,0,599,201,700c
+1108,1108,Time,Fluidity,,XL,615,393,0,604,219,700c
+1109,1109,Trek,H1,Road,50,506,383,61,574,100,700c
+1110,1110,Trek,H1,Road,52,518,388,57,577,110,700c
+1111,1111,Trek,H1,Road,54,526,390,56,581,120,700c
+1112,1112,Trek,H1,Road,56,549,395,56,583,140,700c
+1113,1113,Trek,H1,Road,58,567,400,56,590,160,700c
+1114,1114,Trek,H1,Road,60,586,404,56,599,180,700c
+1115,1115,Trek,H1,Road,62,606,407,55,607,200,700c
+1116,1116,Trek,H2,Road,50,535,374,61,575,130,700c
+1117,1117,Trek,H2,Road,52,547,379,57,577,140,700c
+1118,1118,Trek,H2,Road,54,555,381,56,581,150,700c
+1119,1119,Trek,H2,Road,56,577,387,58,583,170,700c
+1120,1120,Trek,H2,Road,58,596,391,56,590,190,700c
+1121,1121,Trek,H2,Road,60,615,395,56,599,210,700c
+1122,1122,Trek,H2,Road,62,634,398,55,607,230,700c
+1123,1123,Trek,H2,Road,64,654,401,55,615,250,700c
+1124,1124,Trek,H3,Road,44,507,360,69,576,110,700c
+1125,1125,Trek,H3,Road,47,525,364,63,577,125,700c
+1126,1126,Trek,H3,Road,50,542,368,57,578,140,700c
+1127,1127,Trek,H3,Road,52,559,371,61,580,155,700c
+1128,1128,Trek,H3,Road,54,573,374,58,583,170,700c
+1129,1129,Trek,H3,Road,56,591,377,59,580,185,700c
+1130,1130,Trek,H3,Road,60,634,398,56,593,230,700c
+1131,1131,Trek,H3,Road,62,654,401,55,601,250,700c
+1132,1132,Trek,Speed Concept,Tri,XS,468,370,60,549,101,650c
+1133,1133,Trek,Speed Concept,Tri,S,492,390,61,575,76,700c
+1134,1134,Trek,Speed Concept,Tri,M,517,408,60,598,101,700c
+1135,1135,Trek,Speed Concept,Tri,L,541,426,60,624,127,700c
+1136,1136,Trek,Speed Concept,Tri,XL,565,445,60,650,152,700c
+1137,1137,Wilier,Cento,,xs,503,378,0,0,107,700c
+1138,1138,Wilier,Cento,,s,519,383,0,0,122,700c
+1139,1139,Wilier,Cento,,m,536,387,0,0,138,700c
+1140,1140,Wilier,Cento,,l,554,392,0,0,155,700c
+1141,1141,Wilier,Cento,,xl,572,396,0,0,173,700c
+1142,1142,Wilier,Cento,,xxl,590,401,0,0,190,700c
+1143,1143,Wilier,Blade,,S,494,390,0,0,88,700c
+1144,1144,Wilier,Blade,,M,514,407,0,0,107,700c
+1145,1145,Wilier,Blade,,L,534,424,0,0,129,700c
+1146,1146,Wilier,Blade,,XL,554,441,0,0,149,700c
+1147,1147,Wilier,Turbine,,XS/S,487,397,0,0,82,700c
+1148,1148,Wilier,Turbine,,M,521,418,0,0,118,700c
+1149,1149,Wilier,Turbine,,L/XL,555,439,0,0,153,700c
+1150,1150,,,,,,,,,,
+1151,1151,,,,,,,,,,
+1152,1152,,,,,,,,,,
+1153,1153,,,,,,,,,,
+1154,1154,,,,,,,,,,
+1155,1155,,,,,,,,,,
+1156,1156,,,,,,,,,,
+1157,1157,,,,,,,,,,
+1158,1158,,,,,,,,,,
+1159,1159,,,,,,,,,,
+1160,1160,,,,,,,,,,
+1161,1161,,,,,,,,,,
+1162,1162,,,,,,,,,,
+1163,1163,,,,,,,,,,
+1164,1164,,,,,,,,,,
+1165,1165,,,,,,,,,,
+1166,1166,,,,,,,,,,
+1167,1167,,,,,,,,,,
+1168,1168,,,,,,,,,,
+1169,1169,,,,,,,,,,
+1170,1170,,,,,,,,,,
+1171,1171,,,,,,,,,,
+1172,1172,,,,,,,,,,
+1173,1173,,,,,,,,,,
+1174,1174,,,,,,,,,,
+1175,1175,,,,,,,,,,
+1176,1176,,,,,,,,,,
+1177,1177,,,,,,,,,,
+1178,1178,,,,,,,,,,
+1179,1179,,,,,,,,,,
+1180,1180,,,,,,,,,,
+1181,1181,,,,,,,,,,
+1182,1182,,,,,,,,,,
+1183,1183,,,,,,,,,,
+1184,1184,,,,,,,,,,
+1185,1185,,,,,,,,,,
+1186,1186,,,,,,,,,,
+1187,1187,,,,,,,,,,
+1188,1188,,,,,,,,,,
+1189,1189,,,,,,,,,,
+1190,1190,,,,,,,,,,
+1191,1191,,,,,,,,,,
+1192,1192,,,,,,,,,,
+1193,1193,,,,,,,,,,
+1194,1194,,,,,,,,,,
+1195,1195,,,,,,,,,,
+1196,1196,,,,,,,,,,
+1197,1197,,,,,,,,,,
+1198,1198,,,,,,,,,,
+1199,1199,,,,,,,,,,
+1200,1200,,,,,,,,,,
+1201,1201,,,,,,,,,,
+1202,1202,,,,,,,,,,
+1203,1203,,,,,,,,,,
+1204,1204,,,,,,,,,,
+1205,1205,,,,,,,,,,
+1206,1206,,,,,,,,,,
+1207,1207,,,,,,,,,,
+1208,1208,,,,,,,,,,
+1209,1209,,,,,,,,,,
+1210,1210,,,,,,,,,,
+1211,1211,,,,,,,,,,
+1212,1212,,,,,,,,,,
+1213,1213,,,,,,,,,,
+1214,1214,,,,,,,,,,
+1215,1215,,,,,,,,,,
+1216,1216,,,,,,,,,,
+1217,1217,,,,,,,,,,
+1218,1218,,,,,,,,,,
+1219,1219,,,,,,,,,,
+1220,1220,,,,,,,,,,
+1221,1221,,,,,,,,,,
+1222,1222,,,,,,,,,,
+1223,1223,,,,,,,,,,
+1224,1224,,,,,,,,,,
+1225,1225,,,,,,,,,,
+1226,1226,,,,,,,,,,
+1227,1227,,,,,,,,,,
+1228,1228,,,,,,,,,,
+1229,1229,,,,,,,,,,
+1230,1230,,,,,,,,,,
+1231,1231,,,,,,,,,,
+1232,1232,,,,,,,,,,
+1233,1233,,,,,,,,,,
