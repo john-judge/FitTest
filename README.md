@@ -3,6 +3,9 @@ GUI for controlling bicycle fitting adjustment machine over COM serial ports
 
 ![image](https://user-images.githubusercontent.com/40705003/152251496-2f409a41-8eb7-4f5b-a06b-87832392b7fd.png)
 
+![image](https://user-images.githubusercontent.com/40705003/153309345-3646b24b-4954-4d5c-9b11-75140e8743e5.png)
+
+
 # Easy Update Process
 If everything is set up and running smoothly, open an Anaconda prompt and run
 ```
