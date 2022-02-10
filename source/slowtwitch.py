@@ -43,11 +43,12 @@ class SlowtwitchDatabase:
     def get_stack_reach_matches(self, stack, reach, search_radius=10):
         if not self.is_database_found():
             return None
-        matches = self.dataframe[self.dataframe['stack'].between(
+        matches = self.dataframe[self.dataframe['Stack'].between(
             stack - search_radius,
             stack + search_radius
         )]
-        matches = matches[matches['reach'].between(
+        print(matches, stack, search_radius)
+        matches = matches[matches['Reach'].between(
             reach - search_radius,
             reach + search_radius
         )]

@@ -22,9 +22,8 @@ class DynamicFitUnit:
 
     # calculate stack
     def get_stack(self):
-        # fn = self.saddle.x + self.saddle.y + ... pedal location
-        raise NotImplementedError
+        return self.handlebars.y
 
     # calculate reach
     def get_reach(self):
-        raise NotImplementedError
+        return self.handlebars.x

@@ -22,10 +22,10 @@ class Controller:
                                "bike catalog.")
 
         # Default positions
-        self.handlebars_default = [0, 0]
+        self.handlebars_default = [400, 500]
         self.saddle_default = [0, 0]
         self.saddle_bounds = [[-250, 250], [-250, 250]]
-        self.handlebars_bounds = [[-250, 250], [-250, 250]]
+        self.handlebars_bounds = [[200, 600], [200, 600]]
         self.step_size = 10
         self.dfu = DynamicFitUnit(self.saddle_default,
                                   self.handlebars_default,
@@ -82,9 +82,9 @@ class Controller:
                 self.event_handler.saturate_lower_limits(field_names,
                                                          self.saddle_bounds + self.handlebars_bounds)
             elif event == "find bikes":
-                stack = self.dfu.get_stack()
-                reach = self.dfu.get_reach()
-                matches = self.slowtwitch_db.get_stack_reach_matches()
+                stack = self.dfu.get_stack().get_value()
+                reach = self.dfu.get_reach().get_value()
+                matches = self.slowtwitch_db.get_stack_reach_matches(stack, reach)
                 print(matches)
             else:
                 self.event_handler.handle_event(event)
